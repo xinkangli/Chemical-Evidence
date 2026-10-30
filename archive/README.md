@@ -1,0 +1,2 @@
+# Original analysis scripts
+These files are unchanged snapshots, not the portable entry points. They expect the original project layout, derived model inputs, freeze manifests and historical dependencies. Use the package and scripts at the repository root for the supported standalone workflows. The server project archive remains necessary to repeat original baseline training; this release does not claim a raw-data-to-trained-model rebuild.

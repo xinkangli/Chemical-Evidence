@@ -1,0 +1,1396 @@
+method,evaluation,target,subtype,samples,known,acceptance,wrong_accepted_per_sample
+chemical_support,calibrated,0.9,Alpaca,2,False,0.0,0.0
+chemical_support,calibrated,0.9,Cellulose Diacetate,3,False,0.0,0.0
+chemical_support,calibrated,0.9,Cellulose Triacetate,1,False,0.0,0.0
+chemical_support,calibrated,0.9,Cotton,10,False,0.15,0.15
+chemical_support,calibrated,0.9,Jute,2,False,0.0,0.0
+chemical_support,calibrated,0.9,Linen,4,False,0.375,0.375
+chemical_support,calibrated,0.9,Lyocell,4,False,0.0,0.0
+chemical_support,calibrated,0.9,Meta-Aramid,1,False,0.0,0.0
+chemical_support,calibrated,0.9,Modal,2,False,0.0,0.0
+chemical_support,calibrated,0.9,PA 6,10,False,0.0,0.0
+chemical_support,calibrated,0.9,"PA 6,6",6,False,0.0,0.0
+chemical_support,calibrated,0.9,PAN/AA/MA,2,False,0.0,0.0
+chemical_support,calibrated,0.9,PAN/MA,7,False,0.0,0.0
+chemical_support,calibrated,0.9,PAN/MMA/MA,1,False,0.0,0.0
+chemical_support,calibrated,0.9,PAN/VA,1,False,0.0,0.0
+chemical_support,calibrated,0.9,PAN/VA/VC,5,False,0.0,0.0
+chemical_support,calibrated,0.9,PAN/VBr,1,False,0.0,0.0
+chemical_support,calibrated,0.9,PAN/VC,2,False,0.0,0.0
+chemical_support,calibrated,0.9,PAN/VDC,3,False,0.0,0.0
+chemical_support,calibrated,0.9,PE,1,True,1.0,0.0
+chemical_support,calibrated,0.9,PET,8,True,1.0,0.0
+chemical_support,calibrated,0.9,PP,4,True,1.0,0.0
+chemical_support,calibrated,0.9,Para-Aramid,2,False,0.0,0.0
+chemical_support,calibrated,0.9,Silk,7,False,0.0,0.0
+chemical_support,calibrated,0.9,Unspecified Aramid Type,1,False,0.0,0.0
+chemical_support,calibrated,0.9,Unspecified PA Type,1,False,0.0,0.0
+chemical_support,calibrated,0.9,Unspecified PAN (Acrylic) Copolymer,1,False,0.0,0.0
+chemical_support,calibrated,0.9,Unspecified PAN (Modacrylic) Copolymer,4,False,0.0,0.0
+chemical_support,calibrated,0.9,Unspecified Regenerated Cellulose Polymer,11,False,0.0,0.0
+chemical_support,calibrated,0.9,Viscose,1,False,0.0,0.0
+chemical_support,calibrated,0.9,Wool,19,False,0.13157894736842105,0.13157894736842105
+chemical_support,retrospective_matched,0.5,Alpaca,2,False,0.0,0.0
+chemical_support,retrospective_matched,0.5,Cellulose Diacetate,3,False,0.0,0.0
+chemical_support,retrospective_matched,0.5,Cellulose Triacetate,1,False,0.0,0.0
+chemical_support,retrospective_matched,0.5,Cotton,10,False,0.075,0.075
+chemical_support,retrospective_matched,0.5,Jute,2,False,0.0,0.0
+chemical_support,retrospective_matched,0.5,Linen,4,False,0.1875,0.1875
+chemical_support,retrospective_matched,0.5,Lyocell,4,False,0.0,0.0
+chemical_support,retrospective_matched,0.5,Meta-Aramid,1,False,0.0,0.0
+chemical_support,retrospective_matched,0.5,Modal,2,False,0.0,0.0
+chemical_support,retrospective_matched,0.5,PA 6,10,False,0.0,0.0
+chemical_support,retrospective_matched,0.5,"PA 6,6",6,False,0.0,0.0
+chemical_support,retrospective_matched,0.5,PAN/AA/MA,2,False,0.0,0.0
+chemical_support,retrospective_matched,0.5,PAN/MA,7,False,0.0,0.0
+chemical_support,retrospective_matched,0.5,PAN/MMA/MA,1,False,0.0,0.0
+chemical_support,retrospective_matched,0.5,PAN/VA,1,False,0.0,0.0
+chemical_support,retrospective_matched,0.5,PAN/VA/VC,5,False,0.0,0.0
+chemical_support,retrospective_matched,0.5,PAN/VBr,1,False,0.0,0.0
+chemical_support,retrospective_matched,0.5,PAN/VC,2,False,0.0,0.0
+chemical_support,retrospective_matched,0.5,PAN/VDC,3,False,0.0,0.0
+chemical_support,retrospective_matched,0.5,PE,1,True,0.5,0.0
+chemical_support,retrospective_matched,0.5,PET,8,True,0.5,0.0
+chemical_support,retrospective_matched,0.5,PP,4,True,0.5,0.0
+chemical_support,retrospective_matched,0.5,Para-Aramid,2,False,0.0,0.0
+chemical_support,retrospective_matched,0.5,Silk,7,False,0.0,0.0
+chemical_support,retrospective_matched,0.5,Unspecified Aramid Type,1,False,0.0,0.0
+chemical_support,retrospective_matched,0.5,Unspecified PA Type,1,False,0.0,0.0
+chemical_support,retrospective_matched,0.5,Unspecified PAN (Acrylic) Copolymer,1,False,0.0,0.0
+chemical_support,retrospective_matched,0.5,Unspecified PAN (Modacrylic) Copolymer,4,False,0.0,0.0
+chemical_support,retrospective_matched,0.5,Unspecified Regenerated Cellulose Polymer,11,False,0.0,0.0
+chemical_support,retrospective_matched,0.5,Viscose,1,False,0.0,0.0
+chemical_support,retrospective_matched,0.5,Wool,19,False,0.06578947368421052,0.06578947368421052
+chemical_support,retrospective_matched,0.8,Alpaca,2,False,0.0,0.0
+chemical_support,retrospective_matched,0.8,Cellulose Diacetate,3,False,0.0,0.0
+chemical_support,retrospective_matched,0.8,Cellulose Triacetate,1,False,0.0,0.0
+chemical_support,retrospective_matched,0.8,Cotton,10,False,0.12000000000000002,0.12000000000000002
+chemical_support,retrospective_matched,0.8,Jute,2,False,0.0,0.0
+chemical_support,retrospective_matched,0.8,Linen,4,False,0.30000000000000004,0.30000000000000004
+chemical_support,retrospective_matched,0.8,Lyocell,4,False,0.0,0.0
+chemical_support,retrospective_matched,0.8,Meta-Aramid,1,False,0.0,0.0
+chemical_support,retrospective_matched,0.8,Modal,2,False,0.0,0.0
+chemical_support,retrospective_matched,0.8,PA 6,10,False,0.0,0.0
+chemical_support,retrospective_matched,0.8,"PA 6,6",6,False,0.0,0.0
+chemical_support,retrospective_matched,0.8,PAN/AA/MA,2,False,0.0,0.0
+chemical_support,retrospective_matched,0.8,PAN/MA,7,False,0.0,0.0
+chemical_support,retrospective_matched,0.8,PAN/MMA/MA,1,False,0.0,0.0
+chemical_support,retrospective_matched,0.8,PAN/VA,1,False,0.0,0.0
+chemical_support,retrospective_matched,0.8,PAN/VA/VC,5,False,0.0,0.0
+chemical_support,retrospective_matched,0.8,PAN/VBr,1,False,0.0,0.0
+chemical_support,retrospective_matched,0.8,PAN/VC,2,False,0.0,0.0
+chemical_support,retrospective_matched,0.8,PAN/VDC,3,False,0.0,0.0
+chemical_support,retrospective_matched,0.8,PE,1,True,0.8,0.0
+chemical_support,retrospective_matched,0.8,PET,8,True,0.8,0.0
+chemical_support,retrospective_matched,0.8,PP,4,True,0.8,0.0
+chemical_support,retrospective_matched,0.8,Para-Aramid,2,False,0.0,0.0
+chemical_support,retrospective_matched,0.8,Silk,7,False,0.0,0.0
+chemical_support,retrospective_matched,0.8,Unspecified Aramid Type,1,False,0.0,0.0
+chemical_support,retrospective_matched,0.8,Unspecified PA Type,1,False,0.0,0.0
+chemical_support,retrospective_matched,0.8,Unspecified PAN (Acrylic) Copolymer,1,False,0.0,0.0
+chemical_support,retrospective_matched,0.8,Unspecified PAN (Modacrylic) Copolymer,4,False,0.0,0.0
+chemical_support,retrospective_matched,0.8,Unspecified Regenerated Cellulose Polymer,11,False,0.0,0.0
+chemical_support,retrospective_matched,0.8,Viscose,1,False,0.0,0.0
+chemical_support,retrospective_matched,0.8,Wool,19,False,0.10526315789473684,0.10526315789473684
+chemical_support,retrospective_matched,0.9,Alpaca,2,False,0.0,0.0
+chemical_support,retrospective_matched,0.9,Cellulose Diacetate,3,False,0.0,0.0
+chemical_support,retrospective_matched,0.9,Cellulose Triacetate,1,False,0.0,0.0
+chemical_support,retrospective_matched,0.9,Cotton,10,False,0.135,0.135
+chemical_support,retrospective_matched,0.9,Jute,2,False,0.0,0.0
+chemical_support,retrospective_matched,0.9,Linen,4,False,0.3375,0.3375
+chemical_support,retrospective_matched,0.9,Lyocell,4,False,0.0,0.0
+chemical_support,retrospective_matched,0.9,Meta-Aramid,1,False,0.0,0.0
+chemical_support,retrospective_matched,0.9,Modal,2,False,0.0,0.0
+chemical_support,retrospective_matched,0.9,PA 6,10,False,0.0,0.0
+chemical_support,retrospective_matched,0.9,"PA 6,6",6,False,0.0,0.0
+chemical_support,retrospective_matched,0.9,PAN/AA/MA,2,False,0.0,0.0
+chemical_support,retrospective_matched,0.9,PAN/MA,7,False,0.0,0.0
+chemical_support,retrospective_matched,0.9,PAN/MMA/MA,1,False,0.0,0.0
+chemical_support,retrospective_matched,0.9,PAN/VA,1,False,0.0,0.0
+chemical_support,retrospective_matched,0.9,PAN/VA/VC,5,False,0.0,0.0
+chemical_support,retrospective_matched,0.9,PAN/VBr,1,False,0.0,0.0
+chemical_support,retrospective_matched,0.9,PAN/VC,2,False,0.0,0.0
+chemical_support,retrospective_matched,0.9,PAN/VDC,3,False,0.0,0.0
+chemical_support,retrospective_matched,0.9,PE,1,True,0.9000000000000001,0.0
+chemical_support,retrospective_matched,0.9,PET,8,True,0.9000000000000001,0.0
+chemical_support,retrospective_matched,0.9,PP,4,True,0.9000000000000001,0.0
+chemical_support,retrospective_matched,0.9,Para-Aramid,2,False,0.0,0.0
+chemical_support,retrospective_matched,0.9,Silk,7,False,0.0,0.0
+chemical_support,retrospective_matched,0.9,Unspecified Aramid Type,1,False,0.0,0.0
+chemical_support,retrospective_matched,0.9,Unspecified PA Type,1,False,0.0,0.0
+chemical_support,retrospective_matched,0.9,Unspecified PAN (Acrylic) Copolymer,1,False,0.0,0.0
+chemical_support,retrospective_matched,0.9,Unspecified PAN (Modacrylic) Copolymer,4,False,0.0,0.0
+chemical_support,retrospective_matched,0.9,Unspecified Regenerated Cellulose Polymer,11,False,0.0,0.0
+chemical_support,retrospective_matched,0.9,Viscose,1,False,0.0,0.0
+chemical_support,retrospective_matched,0.9,Wool,19,False,0.11842105263157894,0.11842105263157894
+chemical_support,retrospective_matched,0.95,Alpaca,2,False,0.0,0.0
+chemical_support,retrospective_matched,0.95,Cellulose Diacetate,3,False,0.0,0.0
+chemical_support,retrospective_matched,0.95,Cellulose Triacetate,1,False,0.0,0.0
+chemical_support,retrospective_matched,0.95,Cotton,10,False,0.1425,0.1425
+chemical_support,retrospective_matched,0.95,Jute,2,False,0.0,0.0
+chemical_support,retrospective_matched,0.95,Linen,4,False,0.35624999999999996,0.35624999999999996
+chemical_support,retrospective_matched,0.95,Lyocell,4,False,0.0,0.0
+chemical_support,retrospective_matched,0.95,Meta-Aramid,1,False,0.0,0.0
+chemical_support,retrospective_matched,0.95,Modal,2,False,0.0,0.0
+chemical_support,retrospective_matched,0.95,PA 6,10,False,0.0,0.0
+chemical_support,retrospective_matched,0.95,"PA 6,6",6,False,0.0,0.0
+chemical_support,retrospective_matched,0.95,PAN/AA/MA,2,False,0.0,0.0
+chemical_support,retrospective_matched,0.95,PAN/MA,7,False,0.0,0.0
+chemical_support,retrospective_matched,0.95,PAN/MMA/MA,1,False,0.0,0.0
+chemical_support,retrospective_matched,0.95,PAN/VA,1,False,0.0,0.0
+chemical_support,retrospective_matched,0.95,PAN/VA/VC,5,False,0.0,0.0
+chemical_support,retrospective_matched,0.95,PAN/VBr,1,False,0.0,0.0
+chemical_support,retrospective_matched,0.95,PAN/VC,2,False,0.0,0.0
+chemical_support,retrospective_matched,0.95,PAN/VDC,3,False,0.0,0.0
+chemical_support,retrospective_matched,0.95,PE,1,True,0.95,0.0
+chemical_support,retrospective_matched,0.95,PET,8,True,0.95,0.0
+chemical_support,retrospective_matched,0.95,PP,4,True,0.95,0.0
+chemical_support,retrospective_matched,0.95,Para-Aramid,2,False,0.0,0.0
+chemical_support,retrospective_matched,0.95,Silk,7,False,0.0,0.0
+chemical_support,retrospective_matched,0.95,Unspecified Aramid Type,1,False,0.0,0.0
+chemical_support,retrospective_matched,0.95,Unspecified PA Type,1,False,0.0,0.0
+chemical_support,retrospective_matched,0.95,Unspecified PAN (Acrylic) Copolymer,1,False,0.0,0.0
+chemical_support,retrospective_matched,0.95,Unspecified PAN (Modacrylic) Copolymer,4,False,0.0,0.0
+chemical_support,retrospective_matched,0.95,Unspecified Regenerated Cellulose Polymer,11,False,0.0,0.0
+chemical_support,retrospective_matched,0.95,Viscose,1,False,0.0,0.0
+chemical_support,retrospective_matched,0.95,Wool,19,False,0.125,0.125
+fixed_fusion,calibrated,0.9,Alpaca,2,False,0.0,0.0
+fixed_fusion,calibrated,0.9,Cellulose Diacetate,3,False,0.0,0.0
+fixed_fusion,calibrated,0.9,Cellulose Triacetate,1,False,0.0,0.0
+fixed_fusion,calibrated,0.9,Cotton,10,False,0.0,0.0
+fixed_fusion,calibrated,0.9,Jute,2,False,0.0,0.0
+fixed_fusion,calibrated,0.9,Linen,4,False,0.0,0.0
+fixed_fusion,calibrated,0.9,Lyocell,4,False,0.0,0.0
+fixed_fusion,calibrated,0.9,Meta-Aramid,1,False,0.0,0.0
+fixed_fusion,calibrated,0.9,Modal,2,False,0.0,0.0
+fixed_fusion,calibrated,0.9,PA 6,10,False,0.0,0.0
+fixed_fusion,calibrated,0.9,"PA 6,6",6,False,0.0,0.0
+fixed_fusion,calibrated,0.9,PAN/AA/MA,2,False,0.0,0.0
+fixed_fusion,calibrated,0.9,PAN/MA,7,False,0.0,0.0
+fixed_fusion,calibrated,0.9,PAN/MMA/MA,1,False,0.0,0.0
+fixed_fusion,calibrated,0.9,PAN/VA,1,False,0.0,0.0
+fixed_fusion,calibrated,0.9,PAN/VA/VC,5,False,0.0,0.0
+fixed_fusion,calibrated,0.9,PAN/VBr,1,False,0.0,0.0
+fixed_fusion,calibrated,0.9,PAN/VC,2,False,0.0,0.0
+fixed_fusion,calibrated,0.9,PAN/VDC,3,False,0.0,0.0
+fixed_fusion,calibrated,0.9,PE,1,True,1.0,0.0
+fixed_fusion,calibrated,0.9,PET,8,True,1.0,0.0
+fixed_fusion,calibrated,0.9,PP,4,True,1.0,0.0
+fixed_fusion,calibrated,0.9,Para-Aramid,2,False,0.0,0.0
+fixed_fusion,calibrated,0.9,Silk,7,False,0.0,0.0
+fixed_fusion,calibrated,0.9,Unspecified Aramid Type,1,False,0.0,0.0
+fixed_fusion,calibrated,0.9,Unspecified PA Type,1,False,0.0,0.0
+fixed_fusion,calibrated,0.9,Unspecified PAN (Acrylic) Copolymer,1,False,0.0,0.0
+fixed_fusion,calibrated,0.9,Unspecified PAN (Modacrylic) Copolymer,4,False,0.0,0.0
+fixed_fusion,calibrated,0.9,Unspecified Regenerated Cellulose Polymer,11,False,0.0,0.0
+fixed_fusion,calibrated,0.9,Viscose,1,False,0.0,0.0
+fixed_fusion,calibrated,0.9,Wool,19,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.5,Alpaca,2,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.5,Cellulose Diacetate,3,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.5,Cellulose Triacetate,1,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.5,Cotton,10,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.5,Jute,2,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.5,Linen,4,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.5,Lyocell,4,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.5,Meta-Aramid,1,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.5,Modal,2,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.5,PA 6,10,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.5,"PA 6,6",6,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.5,PAN/AA/MA,2,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.5,PAN/MA,7,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.5,PAN/MMA/MA,1,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.5,PAN/VA,1,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.5,PAN/VA/VC,5,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.5,PAN/VBr,1,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.5,PAN/VC,2,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.5,PAN/VDC,3,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.5,PE,1,True,0.0,0.0
+fixed_fusion,retrospective_matched,0.5,PET,8,True,0.8125,0.0
+fixed_fusion,retrospective_matched,0.5,PP,4,True,0.0,0.0
+fixed_fusion,retrospective_matched,0.5,Para-Aramid,2,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.5,Silk,7,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.5,Unspecified Aramid Type,1,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.5,Unspecified PA Type,1,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.5,Unspecified PAN (Acrylic) Copolymer,1,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.5,Unspecified PAN (Modacrylic) Copolymer,4,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.5,Unspecified Regenerated Cellulose Polymer,11,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.5,Viscose,1,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.5,Wool,19,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.8,Alpaca,2,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.8,Cellulose Diacetate,3,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.8,Cellulose Triacetate,1,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.8,Cotton,10,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.8,Jute,2,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.8,Linen,4,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.8,Lyocell,4,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.8,Meta-Aramid,1,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.8,Modal,2,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.8,PA 6,10,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.8,"PA 6,6",6,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.8,PAN/AA/MA,2,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.8,PAN/MA,7,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.8,PAN/MMA/MA,1,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.8,PAN/VA,1,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.8,PAN/VA/VC,5,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.8,PAN/VBr,1,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.8,PAN/VC,2,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.8,PAN/VDC,3,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.8,PE,1,True,0.0,0.0
+fixed_fusion,retrospective_matched,0.8,PET,8,True,1.0,0.0
+fixed_fusion,retrospective_matched,0.8,PP,4,True,0.6000000000000001,0.0
+fixed_fusion,retrospective_matched,0.8,Para-Aramid,2,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.8,Silk,7,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.8,Unspecified Aramid Type,1,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.8,Unspecified PA Type,1,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.8,Unspecified PAN (Acrylic) Copolymer,1,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.8,Unspecified PAN (Modacrylic) Copolymer,4,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.8,Unspecified Regenerated Cellulose Polymer,11,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.8,Viscose,1,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.8,Wool,19,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.9,Alpaca,2,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.9,Cellulose Diacetate,3,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.9,Cellulose Triacetate,1,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.9,Cotton,10,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.9,Jute,2,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.9,Linen,4,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.9,Lyocell,4,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.9,Meta-Aramid,1,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.9,Modal,2,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.9,PA 6,10,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.9,"PA 6,6",6,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.9,PAN/AA/MA,2,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.9,PAN/MA,7,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.9,PAN/MMA/MA,1,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.9,PAN/VA,1,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.9,PAN/VA/VC,5,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.9,PAN/VBr,1,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.9,PAN/VC,2,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.9,PAN/VDC,3,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.9,PE,1,True,0.0,0.0
+fixed_fusion,retrospective_matched,0.9,PET,8,True,1.0,0.0
+fixed_fusion,retrospective_matched,0.9,PP,4,True,0.9250000000000003,0.0
+fixed_fusion,retrospective_matched,0.9,Para-Aramid,2,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.9,Silk,7,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.9,Unspecified Aramid Type,1,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.9,Unspecified PA Type,1,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.9,Unspecified PAN (Acrylic) Copolymer,1,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.9,Unspecified PAN (Modacrylic) Copolymer,4,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.9,Unspecified Regenerated Cellulose Polymer,11,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.9,Viscose,1,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.9,Wool,19,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.95,Alpaca,2,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.95,Cellulose Diacetate,3,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.95,Cellulose Triacetate,1,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.95,Cotton,10,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.95,Jute,2,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.95,Linen,4,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.95,Lyocell,4,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.95,Meta-Aramid,1,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.95,Modal,2,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.95,PA 6,10,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.95,"PA 6,6",6,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.95,PAN/AA/MA,2,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.95,PAN/MA,7,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.95,PAN/MMA/MA,1,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.95,PAN/VA,1,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.95,PAN/VA/VC,5,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.95,PAN/VBr,1,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.95,PAN/VC,2,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.95,PAN/VDC,3,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.95,PE,1,True,0.34999999999999964,0.0
+fixed_fusion,retrospective_matched,0.95,PET,8,True,1.0,0.0
+fixed_fusion,retrospective_matched,0.95,PP,4,True,1.0,0.0
+fixed_fusion,retrospective_matched,0.95,Para-Aramid,2,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.95,Silk,7,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.95,Unspecified Aramid Type,1,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.95,Unspecified PA Type,1,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.95,Unspecified PAN (Acrylic) Copolymer,1,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.95,Unspecified PAN (Modacrylic) Copolymer,4,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.95,Unspecified Regenerated Cellulose Polymer,11,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.95,Viscose,1,False,0.0,0.0
+fixed_fusion,retrospective_matched,0.95,Wool,19,False,0.0,0.0
+initial_retrieval,calibrated,0.9,Alpaca,2,False,0.0,0.0
+initial_retrieval,calibrated,0.9,Cellulose Diacetate,3,False,0.0,0.0
+initial_retrieval,calibrated,0.9,Cellulose Triacetate,1,False,0.0,0.0
+initial_retrieval,calibrated,0.9,Cotton,10,False,0.0,0.0
+initial_retrieval,calibrated,0.9,Jute,2,False,0.0,0.0
+initial_retrieval,calibrated,0.9,Linen,4,False,0.0,0.0
+initial_retrieval,calibrated,0.9,Lyocell,4,False,0.0,0.0
+initial_retrieval,calibrated,0.9,Meta-Aramid,1,False,0.0,0.0
+initial_retrieval,calibrated,0.9,Modal,2,False,0.0,0.0
+initial_retrieval,calibrated,0.9,PA 6,10,False,0.0,0.0
+initial_retrieval,calibrated,0.9,"PA 6,6",6,False,0.0,0.0
+initial_retrieval,calibrated,0.9,PAN/AA/MA,2,False,0.0,0.0
+initial_retrieval,calibrated,0.9,PAN/MA,7,False,0.0,0.0
+initial_retrieval,calibrated,0.9,PAN/MMA/MA,1,False,0.0,0.0
+initial_retrieval,calibrated,0.9,PAN/VA,1,False,0.0,0.0
+initial_retrieval,calibrated,0.9,PAN/VA/VC,5,False,0.0,0.0
+initial_retrieval,calibrated,0.9,PAN/VBr,1,False,0.0,0.0
+initial_retrieval,calibrated,0.9,PAN/VC,2,False,0.0,0.0
+initial_retrieval,calibrated,0.9,PAN/VDC,3,False,0.0,0.0
+initial_retrieval,calibrated,0.9,PE,1,True,1.0,0.0
+initial_retrieval,calibrated,0.9,PET,8,True,1.0,0.0
+initial_retrieval,calibrated,0.9,PP,4,True,1.0,0.0
+initial_retrieval,calibrated,0.9,Para-Aramid,2,False,0.0,0.0
+initial_retrieval,calibrated,0.9,Silk,7,False,0.0,0.0
+initial_retrieval,calibrated,0.9,Unspecified Aramid Type,1,False,0.0,0.0
+initial_retrieval,calibrated,0.9,Unspecified PA Type,1,False,0.0,0.0
+initial_retrieval,calibrated,0.9,Unspecified PAN (Acrylic) Copolymer,1,False,0.0,0.0
+initial_retrieval,calibrated,0.9,Unspecified PAN (Modacrylic) Copolymer,4,False,0.0,0.0
+initial_retrieval,calibrated,0.9,Unspecified Regenerated Cellulose Polymer,11,False,0.0,0.0
+initial_retrieval,calibrated,0.9,Viscose,1,False,0.0,0.0
+initial_retrieval,calibrated,0.9,Wool,19,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.5,Alpaca,2,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.5,Cellulose Diacetate,3,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.5,Cellulose Triacetate,1,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.5,Cotton,10,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.5,Jute,2,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.5,Linen,4,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.5,Lyocell,4,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.5,Meta-Aramid,1,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.5,Modal,2,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.5,PA 6,10,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.5,"PA 6,6",6,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.5,PAN/AA/MA,2,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.5,PAN/MA,7,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.5,PAN/MMA/MA,1,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.5,PAN/VA,1,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.5,PAN/VA/VC,5,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.5,PAN/VBr,1,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.5,PAN/VC,2,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.5,PAN/VDC,3,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.5,PE,1,True,0.0,0.0
+initial_retrieval,retrospective_matched,0.5,PET,8,True,0.8125,0.0
+initial_retrieval,retrospective_matched,0.5,PP,4,True,0.0,0.0
+initial_retrieval,retrospective_matched,0.5,Para-Aramid,2,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.5,Silk,7,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.5,Unspecified Aramid Type,1,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.5,Unspecified PA Type,1,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.5,Unspecified PAN (Acrylic) Copolymer,1,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.5,Unspecified PAN (Modacrylic) Copolymer,4,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.5,Unspecified Regenerated Cellulose Polymer,11,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.5,Viscose,1,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.5,Wool,19,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.8,Alpaca,2,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.8,Cellulose Diacetate,3,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.8,Cellulose Triacetate,1,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.8,Cotton,10,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.8,Jute,2,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.8,Linen,4,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.8,Lyocell,4,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.8,Meta-Aramid,1,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.8,Modal,2,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.8,PA 6,10,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.8,"PA 6,6",6,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.8,PAN/AA/MA,2,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.8,PAN/MA,7,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.8,PAN/MMA/MA,1,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.8,PAN/VA,1,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.8,PAN/VA/VC,5,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.8,PAN/VBr,1,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.8,PAN/VC,2,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.8,PAN/VDC,3,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.8,PE,1,True,0.0,0.0
+initial_retrieval,retrospective_matched,0.8,PET,8,True,1.0,0.0
+initial_retrieval,retrospective_matched,0.8,PP,4,True,0.6000000000000001,0.0
+initial_retrieval,retrospective_matched,0.8,Para-Aramid,2,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.8,Silk,7,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.8,Unspecified Aramid Type,1,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.8,Unspecified PA Type,1,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.8,Unspecified PAN (Acrylic) Copolymer,1,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.8,Unspecified PAN (Modacrylic) Copolymer,4,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.8,Unspecified Regenerated Cellulose Polymer,11,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.8,Viscose,1,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.8,Wool,19,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.9,Alpaca,2,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.9,Cellulose Diacetate,3,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.9,Cellulose Triacetate,1,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.9,Cotton,10,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.9,Jute,2,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.9,Linen,4,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.9,Lyocell,4,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.9,Meta-Aramid,1,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.9,Modal,2,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.9,PA 6,10,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.9,"PA 6,6",6,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.9,PAN/AA/MA,2,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.9,PAN/MA,7,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.9,PAN/MMA/MA,1,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.9,PAN/VA,1,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.9,PAN/VA/VC,5,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.9,PAN/VBr,1,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.9,PAN/VC,2,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.9,PAN/VDC,3,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.9,PE,1,True,0.0,0.0
+initial_retrieval,retrospective_matched,0.9,PET,8,True,1.0,0.0
+initial_retrieval,retrospective_matched,0.9,PP,4,True,0.9250000000000003,0.0
+initial_retrieval,retrospective_matched,0.9,Para-Aramid,2,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.9,Silk,7,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.9,Unspecified Aramid Type,1,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.9,Unspecified PA Type,1,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.9,Unspecified PAN (Acrylic) Copolymer,1,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.9,Unspecified PAN (Modacrylic) Copolymer,4,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.9,Unspecified Regenerated Cellulose Polymer,11,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.9,Viscose,1,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.9,Wool,19,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.95,Alpaca,2,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.95,Cellulose Diacetate,3,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.95,Cellulose Triacetate,1,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.95,Cotton,10,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.95,Jute,2,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.95,Linen,4,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.95,Lyocell,4,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.95,Meta-Aramid,1,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.95,Modal,2,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.95,PA 6,10,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.95,"PA 6,6",6,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.95,PAN/AA/MA,2,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.95,PAN/MA,7,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.95,PAN/MMA/MA,1,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.95,PAN/VA,1,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.95,PAN/VA/VC,5,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.95,PAN/VBr,1,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.95,PAN/VC,2,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.95,PAN/VDC,3,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.95,PE,1,True,0.34999999999999964,0.0
+initial_retrieval,retrospective_matched,0.95,PET,8,True,1.0,0.0
+initial_retrieval,retrospective_matched,0.95,PP,4,True,1.0,0.0
+initial_retrieval,retrospective_matched,0.95,Para-Aramid,2,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.95,Silk,7,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.95,Unspecified Aramid Type,1,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.95,Unspecified PA Type,1,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.95,Unspecified PAN (Acrylic) Copolymer,1,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.95,Unspecified PAN (Modacrylic) Copolymer,4,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.95,Unspecified Regenerated Cellulose Polymer,11,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.95,Viscose,1,False,0.0,0.0
+initial_retrieval,retrospective_matched,0.95,Wool,19,False,0.0,0.0
+learned_fusion,calibrated,0.9,Alpaca,2,False,0.0,0.0
+learned_fusion,calibrated,0.9,Cellulose Diacetate,3,False,0.0,0.0
+learned_fusion,calibrated,0.9,Cellulose Triacetate,1,False,0.0,0.0
+learned_fusion,calibrated,0.9,Cotton,10,False,0.0,0.0
+learned_fusion,calibrated,0.9,Jute,2,False,0.0,0.0
+learned_fusion,calibrated,0.9,Linen,4,False,0.0,0.0
+learned_fusion,calibrated,0.9,Lyocell,4,False,0.0,0.0
+learned_fusion,calibrated,0.9,Meta-Aramid,1,False,0.0,0.0
+learned_fusion,calibrated,0.9,Modal,2,False,0.0,0.0
+learned_fusion,calibrated,0.9,PA 6,10,False,0.0,0.0
+learned_fusion,calibrated,0.9,"PA 6,6",6,False,0.0,0.0
+learned_fusion,calibrated,0.9,PAN/AA/MA,2,False,0.0,0.0
+learned_fusion,calibrated,0.9,PAN/MA,7,False,0.0,0.0
+learned_fusion,calibrated,0.9,PAN/MMA/MA,1,False,0.0,0.0
+learned_fusion,calibrated,0.9,PAN/VA,1,False,0.0,0.0
+learned_fusion,calibrated,0.9,PAN/VA/VC,5,False,0.0,0.0
+learned_fusion,calibrated,0.9,PAN/VBr,1,False,0.0,0.0
+learned_fusion,calibrated,0.9,PAN/VC,2,False,0.0,0.0
+learned_fusion,calibrated,0.9,PAN/VDC,3,False,0.0,0.0
+learned_fusion,calibrated,0.9,PE,1,True,1.0,0.0
+learned_fusion,calibrated,0.9,PET,8,True,1.0,0.0
+learned_fusion,calibrated,0.9,PP,4,True,1.0,0.0
+learned_fusion,calibrated,0.9,Para-Aramid,2,False,0.0,0.0
+learned_fusion,calibrated,0.9,Silk,7,False,0.0,0.0
+learned_fusion,calibrated,0.9,Unspecified Aramid Type,1,False,0.0,0.0
+learned_fusion,calibrated,0.9,Unspecified PA Type,1,False,0.0,0.0
+learned_fusion,calibrated,0.9,Unspecified PAN (Acrylic) Copolymer,1,False,0.0,0.0
+learned_fusion,calibrated,0.9,Unspecified PAN (Modacrylic) Copolymer,4,False,0.0,0.0
+learned_fusion,calibrated,0.9,Unspecified Regenerated Cellulose Polymer,11,False,0.0,0.0
+learned_fusion,calibrated,0.9,Viscose,1,False,0.0,0.0
+learned_fusion,calibrated,0.9,Wool,19,False,0.0,0.0
+learned_fusion,retrospective_matched,0.5,Alpaca,2,False,0.0,0.0
+learned_fusion,retrospective_matched,0.5,Cellulose Diacetate,3,False,0.0,0.0
+learned_fusion,retrospective_matched,0.5,Cellulose Triacetate,1,False,0.0,0.0
+learned_fusion,retrospective_matched,0.5,Cotton,10,False,0.0,0.0
+learned_fusion,retrospective_matched,0.5,Jute,2,False,0.0,0.0
+learned_fusion,retrospective_matched,0.5,Linen,4,False,0.0,0.0
+learned_fusion,retrospective_matched,0.5,Lyocell,4,False,0.0,0.0
+learned_fusion,retrospective_matched,0.5,Meta-Aramid,1,False,0.0,0.0
+learned_fusion,retrospective_matched,0.5,Modal,2,False,0.0,0.0
+learned_fusion,retrospective_matched,0.5,PA 6,10,False,0.0,0.0
+learned_fusion,retrospective_matched,0.5,"PA 6,6",6,False,0.0,0.0
+learned_fusion,retrospective_matched,0.5,PAN/AA/MA,2,False,0.0,0.0
+learned_fusion,retrospective_matched,0.5,PAN/MA,7,False,0.0,0.0
+learned_fusion,retrospective_matched,0.5,PAN/MMA/MA,1,False,0.0,0.0
+learned_fusion,retrospective_matched,0.5,PAN/VA,1,False,0.0,0.0
+learned_fusion,retrospective_matched,0.5,PAN/VA/VC,5,False,0.0,0.0
+learned_fusion,retrospective_matched,0.5,PAN/VBr,1,False,0.0,0.0
+learned_fusion,retrospective_matched,0.5,PAN/VC,2,False,0.0,0.0
+learned_fusion,retrospective_matched,0.5,PAN/VDC,3,False,0.0,0.0
+learned_fusion,retrospective_matched,0.5,PE,1,True,0.0,0.0
+learned_fusion,retrospective_matched,0.5,PET,8,True,0.8125,0.0
+learned_fusion,retrospective_matched,0.5,PP,4,True,0.0,0.0
+learned_fusion,retrospective_matched,0.5,Para-Aramid,2,False,0.0,0.0
+learned_fusion,retrospective_matched,0.5,Silk,7,False,0.0,0.0
+learned_fusion,retrospective_matched,0.5,Unspecified Aramid Type,1,False,0.0,0.0
+learned_fusion,retrospective_matched,0.5,Unspecified PA Type,1,False,0.0,0.0
+learned_fusion,retrospective_matched,0.5,Unspecified PAN (Acrylic) Copolymer,1,False,0.0,0.0
+learned_fusion,retrospective_matched,0.5,Unspecified PAN (Modacrylic) Copolymer,4,False,0.0,0.0
+learned_fusion,retrospective_matched,0.5,Unspecified Regenerated Cellulose Polymer,11,False,0.0,0.0
+learned_fusion,retrospective_matched,0.5,Viscose,1,False,0.0,0.0
+learned_fusion,retrospective_matched,0.5,Wool,19,False,0.0,0.0
+learned_fusion,retrospective_matched,0.8,Alpaca,2,False,0.0,0.0
+learned_fusion,retrospective_matched,0.8,Cellulose Diacetate,3,False,0.0,0.0
+learned_fusion,retrospective_matched,0.8,Cellulose Triacetate,1,False,0.0,0.0
+learned_fusion,retrospective_matched,0.8,Cotton,10,False,0.0,0.0
+learned_fusion,retrospective_matched,0.8,Jute,2,False,0.0,0.0
+learned_fusion,retrospective_matched,0.8,Linen,4,False,0.0,0.0
+learned_fusion,retrospective_matched,0.8,Lyocell,4,False,0.0,0.0
+learned_fusion,retrospective_matched,0.8,Meta-Aramid,1,False,0.0,0.0
+learned_fusion,retrospective_matched,0.8,Modal,2,False,0.0,0.0
+learned_fusion,retrospective_matched,0.8,PA 6,10,False,0.0,0.0
+learned_fusion,retrospective_matched,0.8,"PA 6,6",6,False,0.0,0.0
+learned_fusion,retrospective_matched,0.8,PAN/AA/MA,2,False,0.0,0.0
+learned_fusion,retrospective_matched,0.8,PAN/MA,7,False,0.0,0.0
+learned_fusion,retrospective_matched,0.8,PAN/MMA/MA,1,False,0.0,0.0
+learned_fusion,retrospective_matched,0.8,PAN/VA,1,False,0.0,0.0
+learned_fusion,retrospective_matched,0.8,PAN/VA/VC,5,False,0.0,0.0
+learned_fusion,retrospective_matched,0.8,PAN/VBr,1,False,0.0,0.0
+learned_fusion,retrospective_matched,0.8,PAN/VC,2,False,0.0,0.0
+learned_fusion,retrospective_matched,0.8,PAN/VDC,3,False,0.0,0.0
+learned_fusion,retrospective_matched,0.8,PE,1,True,0.0,0.0
+learned_fusion,retrospective_matched,0.8,PET,8,True,0.925,0.0
+learned_fusion,retrospective_matched,0.8,PP,4,True,0.75,0.0
+learned_fusion,retrospective_matched,0.8,Para-Aramid,2,False,0.0,0.0
+learned_fusion,retrospective_matched,0.8,Silk,7,False,0.0,0.0
+learned_fusion,retrospective_matched,0.8,Unspecified Aramid Type,1,False,0.0,0.0
+learned_fusion,retrospective_matched,0.8,Unspecified PA Type,1,False,0.0,0.0
+learned_fusion,retrospective_matched,0.8,Unspecified PAN (Acrylic) Copolymer,1,False,0.0,0.0
+learned_fusion,retrospective_matched,0.8,Unspecified PAN (Modacrylic) Copolymer,4,False,0.0,0.0
+learned_fusion,retrospective_matched,0.8,Unspecified Regenerated Cellulose Polymer,11,False,0.0,0.0
+learned_fusion,retrospective_matched,0.8,Viscose,1,False,0.0,0.0
+learned_fusion,retrospective_matched,0.8,Wool,19,False,0.0,0.0
+learned_fusion,retrospective_matched,0.9,Alpaca,2,False,0.0,0.0
+learned_fusion,retrospective_matched,0.9,Cellulose Diacetate,3,False,0.0,0.0
+learned_fusion,retrospective_matched,0.9,Cellulose Triacetate,1,False,0.0,0.0
+learned_fusion,retrospective_matched,0.9,Cotton,10,False,0.0,0.0
+learned_fusion,retrospective_matched,0.9,Jute,2,False,0.0,0.0
+learned_fusion,retrospective_matched,0.9,Linen,4,False,0.0,0.0
+learned_fusion,retrospective_matched,0.9,Lyocell,4,False,0.0,0.0
+learned_fusion,retrospective_matched,0.9,Meta-Aramid,1,False,0.0,0.0
+learned_fusion,retrospective_matched,0.9,Modal,2,False,0.0,0.0
+learned_fusion,retrospective_matched,0.9,PA 6,10,False,0.0,0.0
+learned_fusion,retrospective_matched,0.9,"PA 6,6",6,False,0.0,0.0
+learned_fusion,retrospective_matched,0.9,PAN/AA/MA,2,False,0.0,0.0
+learned_fusion,retrospective_matched,0.9,PAN/MA,7,False,0.0,0.0
+learned_fusion,retrospective_matched,0.9,PAN/MMA/MA,1,False,0.0,0.0
+learned_fusion,retrospective_matched,0.9,PAN/VA,1,False,0.0,0.0
+learned_fusion,retrospective_matched,0.9,PAN/VA/VC,5,False,0.0,0.0
+learned_fusion,retrospective_matched,0.9,PAN/VBr,1,False,0.0,0.0
+learned_fusion,retrospective_matched,0.9,PAN/VC,2,False,0.0,0.0
+learned_fusion,retrospective_matched,0.9,PAN/VDC,3,False,0.0,0.0
+learned_fusion,retrospective_matched,0.9,PE,1,True,0.0,0.0
+learned_fusion,retrospective_matched,0.9,PET,8,True,1.0,0.0
+learned_fusion,retrospective_matched,0.9,PP,4,True,0.9250000000000003,0.0
+learned_fusion,retrospective_matched,0.9,Para-Aramid,2,False,0.0,0.0
+learned_fusion,retrospective_matched,0.9,Silk,7,False,0.0,0.0
+learned_fusion,retrospective_matched,0.9,Unspecified Aramid Type,1,False,0.0,0.0
+learned_fusion,retrospective_matched,0.9,Unspecified PA Type,1,False,0.0,0.0
+learned_fusion,retrospective_matched,0.9,Unspecified PAN (Acrylic) Copolymer,1,False,0.0,0.0
+learned_fusion,retrospective_matched,0.9,Unspecified PAN (Modacrylic) Copolymer,4,False,0.0,0.0
+learned_fusion,retrospective_matched,0.9,Unspecified Regenerated Cellulose Polymer,11,False,0.0,0.0
+learned_fusion,retrospective_matched,0.9,Viscose,1,False,0.0,0.0
+learned_fusion,retrospective_matched,0.9,Wool,19,False,0.0,0.0
+learned_fusion,retrospective_matched,0.95,Alpaca,2,False,0.0,0.0
+learned_fusion,retrospective_matched,0.95,Cellulose Diacetate,3,False,0.0,0.0
+learned_fusion,retrospective_matched,0.95,Cellulose Triacetate,1,False,0.0,0.0
+learned_fusion,retrospective_matched,0.95,Cotton,10,False,0.0,0.0
+learned_fusion,retrospective_matched,0.95,Jute,2,False,0.0,0.0
+learned_fusion,retrospective_matched,0.95,Linen,4,False,0.0,0.0
+learned_fusion,retrospective_matched,0.95,Lyocell,4,False,0.0,0.0
+learned_fusion,retrospective_matched,0.95,Meta-Aramid,1,False,0.0,0.0
+learned_fusion,retrospective_matched,0.95,Modal,2,False,0.0,0.0
+learned_fusion,retrospective_matched,0.95,PA 6,10,False,0.0,0.0
+learned_fusion,retrospective_matched,0.95,"PA 6,6",6,False,0.0,0.0
+learned_fusion,retrospective_matched,0.95,PAN/AA/MA,2,False,0.0,0.0
+learned_fusion,retrospective_matched,0.95,PAN/MA,7,False,0.0,0.0
+learned_fusion,retrospective_matched,0.95,PAN/MMA/MA,1,False,0.0,0.0
+learned_fusion,retrospective_matched,0.95,PAN/VA,1,False,0.0,0.0
+learned_fusion,retrospective_matched,0.95,PAN/VA/VC,5,False,0.0,0.0
+learned_fusion,retrospective_matched,0.95,PAN/VBr,1,False,0.0,0.0
+learned_fusion,retrospective_matched,0.95,PAN/VC,2,False,0.0,0.0
+learned_fusion,retrospective_matched,0.95,PAN/VDC,3,False,0.0,0.0
+learned_fusion,retrospective_matched,0.95,PE,1,True,0.34999999999999964,0.0
+learned_fusion,retrospective_matched,0.95,PET,8,True,1.0,0.0
+learned_fusion,retrospective_matched,0.95,PP,4,True,1.0,0.0
+learned_fusion,retrospective_matched,0.95,Para-Aramid,2,False,0.0,0.0
+learned_fusion,retrospective_matched,0.95,Silk,7,False,0.0,0.0
+learned_fusion,retrospective_matched,0.95,Unspecified Aramid Type,1,False,0.0,0.0
+learned_fusion,retrospective_matched,0.95,Unspecified PA Type,1,False,0.0,0.0
+learned_fusion,retrospective_matched,0.95,Unspecified PAN (Acrylic) Copolymer,1,False,0.0,0.0
+learned_fusion,retrospective_matched,0.95,Unspecified PAN (Modacrylic) Copolymer,4,False,0.0,0.0
+learned_fusion,retrospective_matched,0.95,Unspecified Regenerated Cellulose Polymer,11,False,0.0,0.0
+learned_fusion,retrospective_matched,0.95,Viscose,1,False,0.0,0.0
+learned_fusion,retrospective_matched,0.95,Wool,19,False,0.0,0.0
+matched_retrieval,calibrated,0.9,Alpaca,2,False,0.0,0.0
+matched_retrieval,calibrated,0.9,Cellulose Diacetate,3,False,0.0,0.0
+matched_retrieval,calibrated,0.9,Cellulose Triacetate,1,False,0.0,0.0
+matched_retrieval,calibrated,0.9,Cotton,10,False,0.0,0.0
+matched_retrieval,calibrated,0.9,Jute,2,False,0.0,0.0
+matched_retrieval,calibrated,0.9,Linen,4,False,0.0,0.0
+matched_retrieval,calibrated,0.9,Lyocell,4,False,0.0,0.0
+matched_retrieval,calibrated,0.9,Meta-Aramid,1,False,0.0,0.0
+matched_retrieval,calibrated,0.9,Modal,2,False,0.0,0.0
+matched_retrieval,calibrated,0.9,PA 6,10,False,0.0,0.0
+matched_retrieval,calibrated,0.9,"PA 6,6",6,False,0.0,0.0
+matched_retrieval,calibrated,0.9,PAN/AA/MA,2,False,0.0,0.0
+matched_retrieval,calibrated,0.9,PAN/MA,7,False,0.0,0.0
+matched_retrieval,calibrated,0.9,PAN/MMA/MA,1,False,0.0,0.0
+matched_retrieval,calibrated,0.9,PAN/VA,1,False,0.0,0.0
+matched_retrieval,calibrated,0.9,PAN/VA/VC,5,False,0.0,0.0
+matched_retrieval,calibrated,0.9,PAN/VBr,1,False,0.0,0.0
+matched_retrieval,calibrated,0.9,PAN/VC,2,False,0.0,0.0
+matched_retrieval,calibrated,0.9,PAN/VDC,3,False,0.0,0.0
+matched_retrieval,calibrated,0.9,PE,1,True,1.0,0.0
+matched_retrieval,calibrated,0.9,PET,8,True,1.0,0.0
+matched_retrieval,calibrated,0.9,PP,4,True,1.0,0.0
+matched_retrieval,calibrated,0.9,Para-Aramid,2,False,0.0,0.0
+matched_retrieval,calibrated,0.9,Silk,7,False,0.0,0.0
+matched_retrieval,calibrated,0.9,Unspecified Aramid Type,1,False,0.0,0.0
+matched_retrieval,calibrated,0.9,Unspecified PA Type,1,False,0.0,0.0
+matched_retrieval,calibrated,0.9,Unspecified PAN (Acrylic) Copolymer,1,False,0.0,0.0
+matched_retrieval,calibrated,0.9,Unspecified PAN (Modacrylic) Copolymer,4,False,0.0,0.0
+matched_retrieval,calibrated,0.9,Unspecified Regenerated Cellulose Polymer,11,False,0.0,0.0
+matched_retrieval,calibrated,0.9,Viscose,1,False,0.0,0.0
+matched_retrieval,calibrated,0.9,Wool,19,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.5,Alpaca,2,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.5,Cellulose Diacetate,3,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.5,Cellulose Triacetate,1,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.5,Cotton,10,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.5,Jute,2,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.5,Linen,4,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.5,Lyocell,4,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.5,Meta-Aramid,1,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.5,Modal,2,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.5,PA 6,10,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.5,"PA 6,6",6,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.5,PAN/AA/MA,2,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.5,PAN/MA,7,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.5,PAN/MMA/MA,1,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.5,PAN/VA,1,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.5,PAN/VA/VC,5,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.5,PAN/VBr,1,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.5,PAN/VC,2,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.5,PAN/VDC,3,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.5,PE,1,True,0.0,0.0
+matched_retrieval,retrospective_matched,0.5,PET,8,True,0.8125,0.0
+matched_retrieval,retrospective_matched,0.5,PP,4,True,0.0,0.0
+matched_retrieval,retrospective_matched,0.5,Para-Aramid,2,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.5,Silk,7,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.5,Unspecified Aramid Type,1,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.5,Unspecified PA Type,1,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.5,Unspecified PAN (Acrylic) Copolymer,1,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.5,Unspecified PAN (Modacrylic) Copolymer,4,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.5,Unspecified Regenerated Cellulose Polymer,11,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.5,Viscose,1,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.5,Wool,19,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.8,Alpaca,2,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.8,Cellulose Diacetate,3,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.8,Cellulose Triacetate,1,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.8,Cotton,10,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.8,Jute,2,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.8,Linen,4,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.8,Lyocell,4,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.8,Meta-Aramid,1,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.8,Modal,2,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.8,PA 6,10,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.8,"PA 6,6",6,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.8,PAN/AA/MA,2,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.8,PAN/MA,7,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.8,PAN/MMA/MA,1,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.8,PAN/VA,1,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.8,PAN/VA/VC,5,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.8,PAN/VBr,1,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.8,PAN/VC,2,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.8,PAN/VDC,3,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.8,PE,1,True,0.0,0.0
+matched_retrieval,retrospective_matched,0.8,PET,8,True,1.0,0.0
+matched_retrieval,retrospective_matched,0.8,PP,4,True,0.6000000000000001,0.0
+matched_retrieval,retrospective_matched,0.8,Para-Aramid,2,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.8,Silk,7,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.8,Unspecified Aramid Type,1,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.8,Unspecified PA Type,1,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.8,Unspecified PAN (Acrylic) Copolymer,1,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.8,Unspecified PAN (Modacrylic) Copolymer,4,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.8,Unspecified Regenerated Cellulose Polymer,11,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.8,Viscose,1,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.8,Wool,19,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.9,Alpaca,2,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.9,Cellulose Diacetate,3,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.9,Cellulose Triacetate,1,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.9,Cotton,10,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.9,Jute,2,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.9,Linen,4,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.9,Lyocell,4,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.9,Meta-Aramid,1,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.9,Modal,2,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.9,PA 6,10,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.9,"PA 6,6",6,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.9,PAN/AA/MA,2,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.9,PAN/MA,7,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.9,PAN/MMA/MA,1,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.9,PAN/VA,1,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.9,PAN/VA/VC,5,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.9,PAN/VBr,1,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.9,PAN/VC,2,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.9,PAN/VDC,3,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.9,PE,1,True,0.0,0.0
+matched_retrieval,retrospective_matched,0.9,PET,8,True,1.0,0.0
+matched_retrieval,retrospective_matched,0.9,PP,4,True,0.9250000000000003,0.0
+matched_retrieval,retrospective_matched,0.9,Para-Aramid,2,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.9,Silk,7,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.9,Unspecified Aramid Type,1,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.9,Unspecified PA Type,1,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.9,Unspecified PAN (Acrylic) Copolymer,1,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.9,Unspecified PAN (Modacrylic) Copolymer,4,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.9,Unspecified Regenerated Cellulose Polymer,11,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.9,Viscose,1,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.9,Wool,19,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.95,Alpaca,2,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.95,Cellulose Diacetate,3,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.95,Cellulose Triacetate,1,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.95,Cotton,10,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.95,Jute,2,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.95,Linen,4,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.95,Lyocell,4,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.95,Meta-Aramid,1,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.95,Modal,2,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.95,PA 6,10,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.95,"PA 6,6",6,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.95,PAN/AA/MA,2,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.95,PAN/MA,7,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.95,PAN/MMA/MA,1,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.95,PAN/VA,1,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.95,PAN/VA/VC,5,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.95,PAN/VBr,1,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.95,PAN/VC,2,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.95,PAN/VDC,3,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.95,PE,1,True,0.34999999999999964,0.0
+matched_retrieval,retrospective_matched,0.95,PET,8,True,1.0,0.0
+matched_retrieval,retrospective_matched,0.95,PP,4,True,1.0,0.0
+matched_retrieval,retrospective_matched,0.95,Para-Aramid,2,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.95,Silk,7,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.95,Unspecified Aramid Type,1,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.95,Unspecified PA Type,1,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.95,Unspecified PAN (Acrylic) Copolymer,1,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.95,Unspecified PAN (Modacrylic) Copolymer,4,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.95,Unspecified Regenerated Cellulose Polymer,11,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.95,Viscose,1,False,0.0,0.0
+matched_retrieval,retrospective_matched,0.95,Wool,19,False,0.0,0.0
+rf_train,calibrated,0.9,Alpaca,2,False,0.0,0.0
+rf_train,calibrated,0.9,Cellulose Diacetate,3,False,0.0,0.0
+rf_train,calibrated,0.9,Cellulose Triacetate,1,False,0.0,0.0
+rf_train,calibrated,0.9,Cotton,10,False,0.0,0.0
+rf_train,calibrated,0.9,Jute,2,False,0.0,0.0
+rf_train,calibrated,0.9,Linen,4,False,0.0,0.0
+rf_train,calibrated,0.9,Lyocell,4,False,0.0,0.0
+rf_train,calibrated,0.9,Meta-Aramid,1,False,0.0,0.0
+rf_train,calibrated,0.9,Modal,2,False,0.0,0.0
+rf_train,calibrated,0.9,PA 6,10,False,0.0,0.0
+rf_train,calibrated,0.9,"PA 6,6",6,False,0.0,0.0
+rf_train,calibrated,0.9,PAN/AA/MA,2,False,0.0,0.0
+rf_train,calibrated,0.9,PAN/MA,7,False,0.0,0.0
+rf_train,calibrated,0.9,PAN/MMA/MA,1,False,0.0,0.0
+rf_train,calibrated,0.9,PAN/VA,1,False,0.0,0.0
+rf_train,calibrated,0.9,PAN/VA/VC,5,False,0.0,0.0
+rf_train,calibrated,0.9,PAN/VBr,1,False,0.0,0.0
+rf_train,calibrated,0.9,PAN/VC,2,False,0.0,0.0
+rf_train,calibrated,0.9,PAN/VDC,3,False,0.0,0.0
+rf_train,calibrated,0.9,PE,1,True,1.0,0.0
+rf_train,calibrated,0.9,PET,8,True,1.0,0.0
+rf_train,calibrated,0.9,PP,4,True,1.0,0.0
+rf_train,calibrated,0.9,Para-Aramid,2,False,0.0,0.0
+rf_train,calibrated,0.9,Silk,7,False,0.0,0.0
+rf_train,calibrated,0.9,Unspecified Aramid Type,1,False,0.0,0.0
+rf_train,calibrated,0.9,Unspecified PA Type,1,False,0.0,0.0
+rf_train,calibrated,0.9,Unspecified PAN (Acrylic) Copolymer,1,False,0.0,0.0
+rf_train,calibrated,0.9,Unspecified PAN (Modacrylic) Copolymer,4,False,0.0,0.0
+rf_train,calibrated,0.9,Unspecified Regenerated Cellulose Polymer,11,False,0.0,0.0
+rf_train,calibrated,0.9,Viscose,1,False,0.0,0.0
+rf_train,calibrated,0.9,Wool,19,False,0.0,0.0
+rf_train,retrospective_matched,0.5,Alpaca,2,False,0.0,0.0
+rf_train,retrospective_matched,0.5,Cellulose Diacetate,3,False,0.0,0.0
+rf_train,retrospective_matched,0.5,Cellulose Triacetate,1,False,0.0,0.0
+rf_train,retrospective_matched,0.5,Cotton,10,False,0.0,0.0
+rf_train,retrospective_matched,0.5,Jute,2,False,0.0,0.0
+rf_train,retrospective_matched,0.5,Linen,4,False,0.0,0.0
+rf_train,retrospective_matched,0.5,Lyocell,4,False,0.0,0.0
+rf_train,retrospective_matched,0.5,Meta-Aramid,1,False,0.0,0.0
+rf_train,retrospective_matched,0.5,Modal,2,False,0.0,0.0
+rf_train,retrospective_matched,0.5,PA 6,10,False,0.0,0.0
+rf_train,retrospective_matched,0.5,"PA 6,6",6,False,0.0,0.0
+rf_train,retrospective_matched,0.5,PAN/AA/MA,2,False,0.0,0.0
+rf_train,retrospective_matched,0.5,PAN/MA,7,False,0.0,0.0
+rf_train,retrospective_matched,0.5,PAN/MMA/MA,1,False,0.0,0.0
+rf_train,retrospective_matched,0.5,PAN/VA,1,False,0.0,0.0
+rf_train,retrospective_matched,0.5,PAN/VA/VC,5,False,0.0,0.0
+rf_train,retrospective_matched,0.5,PAN/VBr,1,False,0.0,0.0
+rf_train,retrospective_matched,0.5,PAN/VC,2,False,0.0,0.0
+rf_train,retrospective_matched,0.5,PAN/VDC,3,False,0.0,0.0
+rf_train,retrospective_matched,0.5,PE,1,True,0.0,0.0
+rf_train,retrospective_matched,0.5,PET,8,True,0.625,0.0
+rf_train,retrospective_matched,0.5,PP,4,True,0.375,0.0
+rf_train,retrospective_matched,0.5,Para-Aramid,2,False,0.0,0.0
+rf_train,retrospective_matched,0.5,Silk,7,False,0.0,0.0
+rf_train,retrospective_matched,0.5,Unspecified Aramid Type,1,False,0.0,0.0
+rf_train,retrospective_matched,0.5,Unspecified PA Type,1,False,0.0,0.0
+rf_train,retrospective_matched,0.5,Unspecified PAN (Acrylic) Copolymer,1,False,0.0,0.0
+rf_train,retrospective_matched,0.5,Unspecified PAN (Modacrylic) Copolymer,4,False,0.0,0.0
+rf_train,retrospective_matched,0.5,Unspecified Regenerated Cellulose Polymer,11,False,0.0,0.0
+rf_train,retrospective_matched,0.5,Viscose,1,False,0.0,0.0
+rf_train,retrospective_matched,0.5,Wool,19,False,0.0,0.0
+rf_train,retrospective_matched,0.8,Alpaca,2,False,0.0,0.0
+rf_train,retrospective_matched,0.8,Cellulose Diacetate,3,False,0.0,0.0
+rf_train,retrospective_matched,0.8,Cellulose Triacetate,1,False,0.0,0.0
+rf_train,retrospective_matched,0.8,Cotton,10,False,0.0,0.0
+rf_train,retrospective_matched,0.8,Jute,2,False,0.0,0.0
+rf_train,retrospective_matched,0.8,Linen,4,False,0.0,0.0
+rf_train,retrospective_matched,0.8,Lyocell,4,False,0.0,0.0
+rf_train,retrospective_matched,0.8,Meta-Aramid,1,False,0.0,0.0
+rf_train,retrospective_matched,0.8,Modal,2,False,0.0,0.0
+rf_train,retrospective_matched,0.8,PA 6,10,False,0.0,0.0
+rf_train,retrospective_matched,0.8,"PA 6,6",6,False,0.0,0.0
+rf_train,retrospective_matched,0.8,PAN/AA/MA,2,False,0.0,0.0
+rf_train,retrospective_matched,0.8,PAN/MA,7,False,0.0,0.0
+rf_train,retrospective_matched,0.8,PAN/MMA/MA,1,False,0.0,0.0
+rf_train,retrospective_matched,0.8,PAN/VA,1,False,0.0,0.0
+rf_train,retrospective_matched,0.8,PAN/VA/VC,5,False,0.0,0.0
+rf_train,retrospective_matched,0.8,PAN/VBr,1,False,0.0,0.0
+rf_train,retrospective_matched,0.8,PAN/VC,2,False,0.0,0.0
+rf_train,retrospective_matched,0.8,PAN/VDC,3,False,0.0,0.0
+rf_train,retrospective_matched,0.8,PE,1,True,1.0,0.0
+rf_train,retrospective_matched,0.8,PET,8,True,0.75,0.0
+rf_train,retrospective_matched,0.8,PP,4,True,0.8500000000000001,0.0
+rf_train,retrospective_matched,0.8,Para-Aramid,2,False,0.0,0.0
+rf_train,retrospective_matched,0.8,Silk,7,False,0.0,0.0
+rf_train,retrospective_matched,0.8,Unspecified Aramid Type,1,False,0.0,0.0
+rf_train,retrospective_matched,0.8,Unspecified PA Type,1,False,0.0,0.0
+rf_train,retrospective_matched,0.8,Unspecified PAN (Acrylic) Copolymer,1,False,0.0,0.0
+rf_train,retrospective_matched,0.8,Unspecified PAN (Modacrylic) Copolymer,4,False,0.0,0.0
+rf_train,retrospective_matched,0.8,Unspecified Regenerated Cellulose Polymer,11,False,0.0,0.0
+rf_train,retrospective_matched,0.8,Viscose,1,False,0.0,0.0
+rf_train,retrospective_matched,0.8,Wool,19,False,0.0,0.0
+rf_train,retrospective_matched,0.9,Alpaca,2,False,0.0,0.0
+rf_train,retrospective_matched,0.9,Cellulose Diacetate,3,False,0.0,0.0
+rf_train,retrospective_matched,0.9,Cellulose Triacetate,1,False,0.0,0.0
+rf_train,retrospective_matched,0.9,Cotton,10,False,0.0,0.0
+rf_train,retrospective_matched,0.9,Jute,2,False,0.0,0.0
+rf_train,retrospective_matched,0.9,Linen,4,False,0.0,0.0
+rf_train,retrospective_matched,0.9,Lyocell,4,False,0.0,0.0
+rf_train,retrospective_matched,0.9,Meta-Aramid,1,False,0.0,0.0
+rf_train,retrospective_matched,0.9,Modal,2,False,0.0,0.0
+rf_train,retrospective_matched,0.9,PA 6,10,False,0.0,0.0
+rf_train,retrospective_matched,0.9,"PA 6,6",6,False,0.0,0.0
+rf_train,retrospective_matched,0.9,PAN/AA/MA,2,False,0.0,0.0
+rf_train,retrospective_matched,0.9,PAN/MA,7,False,0.0,0.0
+rf_train,retrospective_matched,0.9,PAN/MMA/MA,1,False,0.0,0.0
+rf_train,retrospective_matched,0.9,PAN/VA,1,False,0.0,0.0
+rf_train,retrospective_matched,0.9,PAN/VA/VC,5,False,0.0,0.0
+rf_train,retrospective_matched,0.9,PAN/VBr,1,False,0.0,0.0
+rf_train,retrospective_matched,0.9,PAN/VC,2,False,0.0,0.0
+rf_train,retrospective_matched,0.9,PAN/VDC,3,False,0.0,0.0
+rf_train,retrospective_matched,0.9,PE,1,True,1.0,0.0
+rf_train,retrospective_matched,0.9,PET,8,True,0.8375000000000001,0.0
+rf_train,retrospective_matched,0.9,PP,4,True,1.0,0.0
+rf_train,retrospective_matched,0.9,Para-Aramid,2,False,0.0,0.0
+rf_train,retrospective_matched,0.9,Silk,7,False,0.0,0.0
+rf_train,retrospective_matched,0.9,Unspecified Aramid Type,1,False,0.0,0.0
+rf_train,retrospective_matched,0.9,Unspecified PA Type,1,False,0.0,0.0
+rf_train,retrospective_matched,0.9,Unspecified PAN (Acrylic) Copolymer,1,False,0.0,0.0
+rf_train,retrospective_matched,0.9,Unspecified PAN (Modacrylic) Copolymer,4,False,0.0,0.0
+rf_train,retrospective_matched,0.9,Unspecified Regenerated Cellulose Polymer,11,False,0.0,0.0
+rf_train,retrospective_matched,0.9,Viscose,1,False,0.0,0.0
+rf_train,retrospective_matched,0.9,Wool,19,False,0.0,0.0
+rf_train,retrospective_matched,0.95,Alpaca,2,False,0.0,0.0
+rf_train,retrospective_matched,0.95,Cellulose Diacetate,3,False,0.0,0.0
+rf_train,retrospective_matched,0.95,Cellulose Triacetate,1,False,0.0,0.0
+rf_train,retrospective_matched,0.95,Cotton,10,False,0.0,0.0
+rf_train,retrospective_matched,0.95,Jute,2,False,0.0,0.0
+rf_train,retrospective_matched,0.95,Linen,4,False,0.0,0.0
+rf_train,retrospective_matched,0.95,Lyocell,4,False,0.0,0.0
+rf_train,retrospective_matched,0.95,Meta-Aramid,1,False,0.0,0.0
+rf_train,retrospective_matched,0.95,Modal,2,False,0.0,0.0
+rf_train,retrospective_matched,0.95,PA 6,10,False,0.0,0.0
+rf_train,retrospective_matched,0.95,"PA 6,6",6,False,0.0,0.0
+rf_train,retrospective_matched,0.95,PAN/AA/MA,2,False,0.0,0.0
+rf_train,retrospective_matched,0.95,PAN/MA,7,False,0.0,0.0
+rf_train,retrospective_matched,0.95,PAN/MMA/MA,1,False,0.0,0.0
+rf_train,retrospective_matched,0.95,PAN/VA,1,False,0.0,0.0
+rf_train,retrospective_matched,0.95,PAN/VA/VC,5,False,0.0,0.0
+rf_train,retrospective_matched,0.95,PAN/VBr,1,False,0.0,0.0
+rf_train,retrospective_matched,0.95,PAN/VC,2,False,0.0,0.0
+rf_train,retrospective_matched,0.95,PAN/VDC,3,False,0.0,0.0
+rf_train,retrospective_matched,0.95,PE,1,True,1.0,0.0
+rf_train,retrospective_matched,0.95,PET,8,True,0.91875,0.0
+rf_train,retrospective_matched,0.95,PP,4,True,1.0,0.0
+rf_train,retrospective_matched,0.95,Para-Aramid,2,False,0.0,0.0
+rf_train,retrospective_matched,0.95,Silk,7,False,0.0,0.0
+rf_train,retrospective_matched,0.95,Unspecified Aramid Type,1,False,0.0,0.0
+rf_train,retrospective_matched,0.95,Unspecified PA Type,1,False,0.0,0.0
+rf_train,retrospective_matched,0.95,Unspecified PAN (Acrylic) Copolymer,1,False,0.0,0.0
+rf_train,retrospective_matched,0.95,Unspecified PAN (Modacrylic) Copolymer,4,False,0.0,0.0
+rf_train,retrospective_matched,0.95,Unspecified Regenerated Cellulose Polymer,11,False,0.0,0.0
+rf_train,retrospective_matched,0.95,Viscose,1,False,0.0,0.0
+rf_train,retrospective_matched,0.95,Wool,19,False,0.0,0.0
+rf_train_cal,calibrated,0.9,Alpaca,2,False,0.0,0.0
+rf_train_cal,calibrated,0.9,Cellulose Diacetate,3,False,0.0,0.0
+rf_train_cal,calibrated,0.9,Cellulose Triacetate,1,False,0.0,0.0
+rf_train_cal,calibrated,0.9,Cotton,10,False,0.0,0.0
+rf_train_cal,calibrated,0.9,Jute,2,False,0.0,0.0
+rf_train_cal,calibrated,0.9,Linen,4,False,0.0,0.0
+rf_train_cal,calibrated,0.9,Lyocell,4,False,0.0,0.0
+rf_train_cal,calibrated,0.9,Meta-Aramid,1,False,0.0,0.0
+rf_train_cal,calibrated,0.9,Modal,2,False,0.0,0.0
+rf_train_cal,calibrated,0.9,PA 6,10,False,0.0,0.0
+rf_train_cal,calibrated,0.9,"PA 6,6",6,False,0.0,0.0
+rf_train_cal,calibrated,0.9,PAN/AA/MA,2,False,0.0,0.0
+rf_train_cal,calibrated,0.9,PAN/MA,7,False,0.0,0.0
+rf_train_cal,calibrated,0.9,PAN/MMA/MA,1,False,0.0,0.0
+rf_train_cal,calibrated,0.9,PAN/VA,1,False,0.0,0.0
+rf_train_cal,calibrated,0.9,PAN/VA/VC,5,False,0.0,0.0
+rf_train_cal,calibrated,0.9,PAN/VBr,1,False,0.0,0.0
+rf_train_cal,calibrated,0.9,PAN/VC,2,False,0.0,0.0
+rf_train_cal,calibrated,0.9,PAN/VDC,3,False,0.0,0.0
+rf_train_cal,calibrated,0.9,PE,1,True,1.0,0.0
+rf_train_cal,calibrated,0.9,PET,8,True,1.0,0.0
+rf_train_cal,calibrated,0.9,PP,4,True,1.0,0.0
+rf_train_cal,calibrated,0.9,Para-Aramid,2,False,0.0,0.0
+rf_train_cal,calibrated,0.9,Silk,7,False,0.0,0.0
+rf_train_cal,calibrated,0.9,Unspecified Aramid Type,1,False,0.0,0.0
+rf_train_cal,calibrated,0.9,Unspecified PA Type,1,False,0.0,0.0
+rf_train_cal,calibrated,0.9,Unspecified PAN (Acrylic) Copolymer,1,False,0.0,0.0
+rf_train_cal,calibrated,0.9,Unspecified PAN (Modacrylic) Copolymer,4,False,0.0,0.0
+rf_train_cal,calibrated,0.9,Unspecified Regenerated Cellulose Polymer,11,False,0.0,0.0
+rf_train_cal,calibrated,0.9,Viscose,1,False,0.0,0.0
+rf_train_cal,calibrated,0.9,Wool,19,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.5,Alpaca,2,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.5,Cellulose Diacetate,3,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.5,Cellulose Triacetate,1,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.5,Cotton,10,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.5,Jute,2,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.5,Linen,4,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.5,Lyocell,4,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.5,Meta-Aramid,1,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.5,Modal,2,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.5,PA 6,10,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.5,"PA 6,6",6,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.5,PAN/AA/MA,2,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.5,PAN/MA,7,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.5,PAN/MMA/MA,1,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.5,PAN/VA,1,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.5,PAN/VA/VC,5,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.5,PAN/VBr,1,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.5,PAN/VC,2,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.5,PAN/VDC,3,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.5,PE,1,True,0.0,0.0
+rf_train_cal,retrospective_matched,0.5,PET,8,True,0.5,0.0
+rf_train_cal,retrospective_matched,0.5,PP,4,True,0.625,0.0
+rf_train_cal,retrospective_matched,0.5,Para-Aramid,2,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.5,Silk,7,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.5,Unspecified Aramid Type,1,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.5,Unspecified PA Type,1,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.5,Unspecified PAN (Acrylic) Copolymer,1,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.5,Unspecified PAN (Modacrylic) Copolymer,4,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.5,Unspecified Regenerated Cellulose Polymer,11,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.5,Viscose,1,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.5,Wool,19,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.8,Alpaca,2,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.8,Cellulose Diacetate,3,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.8,Cellulose Triacetate,1,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.8,Cotton,10,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.8,Jute,2,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.8,Linen,4,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.8,Lyocell,4,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.8,Meta-Aramid,1,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.8,Modal,2,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.8,PA 6,10,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.8,"PA 6,6",6,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.8,PAN/AA/MA,2,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.8,PAN/MA,7,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.8,PAN/MMA/MA,1,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.8,PAN/VA,1,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.8,PAN/VA/VC,5,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.8,PAN/VBr,1,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.8,PAN/VC,2,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.8,PAN/VDC,3,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.8,PE,1,True,1.0,0.0
+rf_train_cal,retrospective_matched,0.8,PET,8,True,0.75,0.0
+rf_train_cal,retrospective_matched,0.8,PP,4,True,0.8500000000000001,0.0
+rf_train_cal,retrospective_matched,0.8,Para-Aramid,2,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.8,Silk,7,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.8,Unspecified Aramid Type,1,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.8,Unspecified PA Type,1,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.8,Unspecified PAN (Acrylic) Copolymer,1,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.8,Unspecified PAN (Modacrylic) Copolymer,4,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.8,Unspecified Regenerated Cellulose Polymer,11,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.8,Viscose,1,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.8,Wool,19,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.9,Alpaca,2,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.9,Cellulose Diacetate,3,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.9,Cellulose Triacetate,1,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.9,Cotton,10,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.9,Jute,2,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.9,Linen,4,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.9,Lyocell,4,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.9,Meta-Aramid,1,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.9,Modal,2,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.9,PA 6,10,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.9,"PA 6,6",6,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.9,PAN/AA/MA,2,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.9,PAN/MA,7,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.9,PAN/MMA/MA,1,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.9,PAN/VA,1,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.9,PAN/VA/VC,5,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.9,PAN/VBr,1,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.9,PAN/VC,2,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.9,PAN/VDC,3,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.9,PE,1,True,1.0,0.0
+rf_train_cal,retrospective_matched,0.9,PET,8,True,0.8375000000000001,0.0
+rf_train_cal,retrospective_matched,0.9,PP,4,True,1.0,0.0
+rf_train_cal,retrospective_matched,0.9,Para-Aramid,2,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.9,Silk,7,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.9,Unspecified Aramid Type,1,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.9,Unspecified PA Type,1,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.9,Unspecified PAN (Acrylic) Copolymer,1,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.9,Unspecified PAN (Modacrylic) Copolymer,4,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.9,Unspecified Regenerated Cellulose Polymer,11,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.9,Viscose,1,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.9,Wool,19,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.95,Alpaca,2,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.95,Cellulose Diacetate,3,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.95,Cellulose Triacetate,1,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.95,Cotton,10,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.95,Jute,2,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.95,Linen,4,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.95,Lyocell,4,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.95,Meta-Aramid,1,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.95,Modal,2,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.95,PA 6,10,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.95,"PA 6,6",6,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.95,PAN/AA/MA,2,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.95,PAN/MA,7,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.95,PAN/MMA/MA,1,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.95,PAN/VA,1,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.95,PAN/VA/VC,5,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.95,PAN/VBr,1,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.95,PAN/VC,2,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.95,PAN/VDC,3,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.95,PE,1,True,1.0,0.0
+rf_train_cal,retrospective_matched,0.95,PET,8,True,0.91875,0.0
+rf_train_cal,retrospective_matched,0.95,PP,4,True,1.0,0.0
+rf_train_cal,retrospective_matched,0.95,Para-Aramid,2,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.95,Silk,7,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.95,Unspecified Aramid Type,1,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.95,Unspecified PA Type,1,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.95,Unspecified PAN (Acrylic) Copolymer,1,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.95,Unspecified PAN (Modacrylic) Copolymer,4,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.95,Unspecified Regenerated Cellulose Polymer,11,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.95,Viscose,1,False,0.0,0.0
+rf_train_cal,retrospective_matched,0.95,Wool,19,False,0.0,0.0
+svc_train,calibrated,0.9,Alpaca,2,False,0.0,0.0
+svc_train,calibrated,0.9,Cellulose Diacetate,3,False,0.0,0.0
+svc_train,calibrated,0.9,Cellulose Triacetate,1,False,0.0,0.0
+svc_train,calibrated,0.9,Cotton,10,False,0.0,0.0
+svc_train,calibrated,0.9,Jute,2,False,0.0,0.0
+svc_train,calibrated,0.9,Linen,4,False,0.125,0.125
+svc_train,calibrated,0.9,Lyocell,4,False,0.0,0.0
+svc_train,calibrated,0.9,Meta-Aramid,1,False,0.0,0.0
+svc_train,calibrated,0.9,Modal,2,False,0.0,0.0
+svc_train,calibrated,0.9,PA 6,10,False,0.0,0.0
+svc_train,calibrated,0.9,"PA 6,6",6,False,0.0,0.0
+svc_train,calibrated,0.9,PAN/AA/MA,2,False,0.0,0.0
+svc_train,calibrated,0.9,PAN/MA,7,False,0.0,0.0
+svc_train,calibrated,0.9,PAN/MMA/MA,1,False,0.0,0.0
+svc_train,calibrated,0.9,PAN/VA,1,False,0.0,0.0
+svc_train,calibrated,0.9,PAN/VA/VC,5,False,0.0,0.0
+svc_train,calibrated,0.9,PAN/VBr,1,False,0.0,0.0
+svc_train,calibrated,0.9,PAN/VC,2,False,0.0,0.0
+svc_train,calibrated,0.9,PAN/VDC,3,False,0.0,0.0
+svc_train,calibrated,0.9,PE,1,True,1.0,0.0
+svc_train,calibrated,0.9,PET,8,True,1.0,0.0
+svc_train,calibrated,0.9,PP,4,True,1.0,0.0
+svc_train,calibrated,0.9,Para-Aramid,2,False,0.0,0.0
+svc_train,calibrated,0.9,Silk,7,False,0.0,0.0
+svc_train,calibrated,0.9,Unspecified Aramid Type,1,False,0.0,0.0
+svc_train,calibrated,0.9,Unspecified PA Type,1,False,0.0,0.0
+svc_train,calibrated,0.9,Unspecified PAN (Acrylic) Copolymer,1,False,0.0,0.0
+svc_train,calibrated,0.9,Unspecified PAN (Modacrylic) Copolymer,4,False,0.0,0.0
+svc_train,calibrated,0.9,Unspecified Regenerated Cellulose Polymer,11,False,0.0,0.0
+svc_train,calibrated,0.9,Viscose,1,False,0.0,0.0
+svc_train,calibrated,0.9,Wool,19,False,0.05263157894736842,0.05263157894736842
+svc_train,retrospective_matched,0.5,Alpaca,2,False,0.0,0.0
+svc_train,retrospective_matched,0.5,Cellulose Diacetate,3,False,0.0,0.0
+svc_train,retrospective_matched,0.5,Cellulose Triacetate,1,False,0.0,0.0
+svc_train,retrospective_matched,0.5,Cotton,10,False,0.0,0.0
+svc_train,retrospective_matched,0.5,Jute,2,False,0.0,0.0
+svc_train,retrospective_matched,0.5,Linen,4,False,0.0,0.0
+svc_train,retrospective_matched,0.5,Lyocell,4,False,0.0,0.0
+svc_train,retrospective_matched,0.5,Meta-Aramid,1,False,0.0,0.0
+svc_train,retrospective_matched,0.5,Modal,2,False,0.0,0.0
+svc_train,retrospective_matched,0.5,PA 6,10,False,0.0,0.0
+svc_train,retrospective_matched,0.5,"PA 6,6",6,False,0.0,0.0
+svc_train,retrospective_matched,0.5,PAN/AA/MA,2,False,0.0,0.0
+svc_train,retrospective_matched,0.5,PAN/MA,7,False,0.0,0.0
+svc_train,retrospective_matched,0.5,PAN/MMA/MA,1,False,0.0,0.0
+svc_train,retrospective_matched,0.5,PAN/VA,1,False,0.0,0.0
+svc_train,retrospective_matched,0.5,PAN/VA/VC,5,False,0.0,0.0
+svc_train,retrospective_matched,0.5,PAN/VBr,1,False,0.0,0.0
+svc_train,retrospective_matched,0.5,PAN/VC,2,False,0.0,0.0
+svc_train,retrospective_matched,0.5,PAN/VDC,3,False,0.0,0.0
+svc_train,retrospective_matched,0.5,PE,1,True,1.0,0.0
+svc_train,retrospective_matched,0.5,PET,8,True,0.1875,0.0
+svc_train,retrospective_matched,0.5,PP,4,True,1.0,0.0
+svc_train,retrospective_matched,0.5,Para-Aramid,2,False,0.0,0.0
+svc_train,retrospective_matched,0.5,Silk,7,False,0.0,0.0
+svc_train,retrospective_matched,0.5,Unspecified Aramid Type,1,False,0.0,0.0
+svc_train,retrospective_matched,0.5,Unspecified PA Type,1,False,0.0,0.0
+svc_train,retrospective_matched,0.5,Unspecified PAN (Acrylic) Copolymer,1,False,0.0,0.0
+svc_train,retrospective_matched,0.5,Unspecified PAN (Modacrylic) Copolymer,4,False,0.0,0.0
+svc_train,retrospective_matched,0.5,Unspecified Regenerated Cellulose Polymer,11,False,0.0,0.0
+svc_train,retrospective_matched,0.5,Viscose,1,False,0.0,0.0
+svc_train,retrospective_matched,0.5,Wool,19,False,0.0,0.0
+svc_train,retrospective_matched,0.8,Alpaca,2,False,0.0,0.0
+svc_train,retrospective_matched,0.8,Cellulose Diacetate,3,False,0.0,0.0
+svc_train,retrospective_matched,0.8,Cellulose Triacetate,1,False,0.0,0.0
+svc_train,retrospective_matched,0.8,Cotton,10,False,0.0,0.0
+svc_train,retrospective_matched,0.8,Jute,2,False,0.0,0.0
+svc_train,retrospective_matched,0.8,Linen,4,False,0.0,0.0
+svc_train,retrospective_matched,0.8,Lyocell,4,False,0.0,0.0
+svc_train,retrospective_matched,0.8,Meta-Aramid,1,False,0.0,0.0
+svc_train,retrospective_matched,0.8,Modal,2,False,0.0,0.0
+svc_train,retrospective_matched,0.8,PA 6,10,False,0.0,0.0
+svc_train,retrospective_matched,0.8,"PA 6,6",6,False,0.0,0.0
+svc_train,retrospective_matched,0.8,PAN/AA/MA,2,False,0.0,0.0
+svc_train,retrospective_matched,0.8,PAN/MA,7,False,0.0,0.0
+svc_train,retrospective_matched,0.8,PAN/MMA/MA,1,False,0.0,0.0
+svc_train,retrospective_matched,0.8,PAN/VA,1,False,0.0,0.0
+svc_train,retrospective_matched,0.8,PAN/VA/VC,5,False,0.0,0.0
+svc_train,retrospective_matched,0.8,PAN/VBr,1,False,0.0,0.0
+svc_train,retrospective_matched,0.8,PAN/VC,2,False,0.0,0.0
+svc_train,retrospective_matched,0.8,PAN/VDC,3,False,0.0,0.0
+svc_train,retrospective_matched,0.8,PE,1,True,1.0,0.0
+svc_train,retrospective_matched,0.8,PET,8,True,0.675,0.0
+svc_train,retrospective_matched,0.8,PP,4,True,1.0,0.0
+svc_train,retrospective_matched,0.8,Para-Aramid,2,False,0.0,0.0
+svc_train,retrospective_matched,0.8,Silk,7,False,0.0,0.0
+svc_train,retrospective_matched,0.8,Unspecified Aramid Type,1,False,0.0,0.0
+svc_train,retrospective_matched,0.8,Unspecified PA Type,1,False,0.0,0.0
+svc_train,retrospective_matched,0.8,Unspecified PAN (Acrylic) Copolymer,1,False,0.0,0.0
+svc_train,retrospective_matched,0.8,Unspecified PAN (Modacrylic) Copolymer,4,False,0.0,0.0
+svc_train,retrospective_matched,0.8,Unspecified Regenerated Cellulose Polymer,11,False,0.0,0.0
+svc_train,retrospective_matched,0.8,Viscose,1,False,0.0,0.0
+svc_train,retrospective_matched,0.8,Wool,19,False,0.0,0.0
+svc_train,retrospective_matched,0.9,Alpaca,2,False,0.0,0.0
+svc_train,retrospective_matched,0.9,Cellulose Diacetate,3,False,0.0,0.0
+svc_train,retrospective_matched,0.9,Cellulose Triacetate,1,False,0.0,0.0
+svc_train,retrospective_matched,0.9,Cotton,10,False,0.0,0.0
+svc_train,retrospective_matched,0.9,Jute,2,False,0.0,0.0
+svc_train,retrospective_matched,0.9,Linen,4,False,0.0,0.0
+svc_train,retrospective_matched,0.9,Lyocell,4,False,0.0,0.0
+svc_train,retrospective_matched,0.9,Meta-Aramid,1,False,0.0,0.0
+svc_train,retrospective_matched,0.9,Modal,2,False,0.0,0.0
+svc_train,retrospective_matched,0.9,PA 6,10,False,0.0,0.0
+svc_train,retrospective_matched,0.9,"PA 6,6",6,False,0.0,0.0
+svc_train,retrospective_matched,0.9,PAN/AA/MA,2,False,0.0,0.0
+svc_train,retrospective_matched,0.9,PAN/MA,7,False,0.0,0.0
+svc_train,retrospective_matched,0.9,PAN/MMA/MA,1,False,0.0,0.0
+svc_train,retrospective_matched,0.9,PAN/VA,1,False,0.0,0.0
+svc_train,retrospective_matched,0.9,PAN/VA/VC,5,False,0.0,0.0
+svc_train,retrospective_matched,0.9,PAN/VBr,1,False,0.0,0.0
+svc_train,retrospective_matched,0.9,PAN/VC,2,False,0.0,0.0
+svc_train,retrospective_matched,0.9,PAN/VDC,3,False,0.0,0.0
+svc_train,retrospective_matched,0.9,PE,1,True,1.0,0.0
+svc_train,retrospective_matched,0.9,PET,8,True,0.8375000000000001,0.0
+svc_train,retrospective_matched,0.9,PP,4,True,1.0,0.0
+svc_train,retrospective_matched,0.9,Para-Aramid,2,False,0.0,0.0
+svc_train,retrospective_matched,0.9,Silk,7,False,0.0,0.0
+svc_train,retrospective_matched,0.9,Unspecified Aramid Type,1,False,0.0,0.0
+svc_train,retrospective_matched,0.9,Unspecified PA Type,1,False,0.0,0.0
+svc_train,retrospective_matched,0.9,Unspecified PAN (Acrylic) Copolymer,1,False,0.0,0.0
+svc_train,retrospective_matched,0.9,Unspecified PAN (Modacrylic) Copolymer,4,False,0.0,0.0
+svc_train,retrospective_matched,0.9,Unspecified Regenerated Cellulose Polymer,11,False,0.0,0.0
+svc_train,retrospective_matched,0.9,Viscose,1,False,0.0,0.0
+svc_train,retrospective_matched,0.9,Wool,19,False,0.05263157894736842,0.05263157894736842
+svc_train,retrospective_matched,0.95,Alpaca,2,False,0.0,0.0
+svc_train,retrospective_matched,0.95,Cellulose Diacetate,3,False,0.0,0.0
+svc_train,retrospective_matched,0.95,Cellulose Triacetate,1,False,0.0,0.0
+svc_train,retrospective_matched,0.95,Cotton,10,False,0.0,0.0
+svc_train,retrospective_matched,0.95,Jute,2,False,0.0,0.0
+svc_train,retrospective_matched,0.95,Linen,4,False,0.0,0.0
+svc_train,retrospective_matched,0.95,Lyocell,4,False,0.0,0.0
+svc_train,retrospective_matched,0.95,Meta-Aramid,1,False,0.0,0.0
+svc_train,retrospective_matched,0.95,Modal,2,False,0.0,0.0
+svc_train,retrospective_matched,0.95,PA 6,10,False,0.0,0.0
+svc_train,retrospective_matched,0.95,"PA 6,6",6,False,0.0,0.0
+svc_train,retrospective_matched,0.95,PAN/AA/MA,2,False,0.0,0.0
+svc_train,retrospective_matched,0.95,PAN/MA,7,False,0.0,0.0
+svc_train,retrospective_matched,0.95,PAN/MMA/MA,1,False,0.0,0.0
+svc_train,retrospective_matched,0.95,PAN/VA,1,False,0.0,0.0
+svc_train,retrospective_matched,0.95,PAN/VA/VC,5,False,0.0,0.0
+svc_train,retrospective_matched,0.95,PAN/VBr,1,False,0.0,0.0
+svc_train,retrospective_matched,0.95,PAN/VC,2,False,0.0,0.0
+svc_train,retrospective_matched,0.95,PAN/VDC,3,False,0.0,0.0
+svc_train,retrospective_matched,0.95,PE,1,True,1.0,0.0
+svc_train,retrospective_matched,0.95,PET,8,True,0.91875,0.0
+svc_train,retrospective_matched,0.95,PP,4,True,1.0,0.0
+svc_train,retrospective_matched,0.95,Para-Aramid,2,False,0.0,0.0
+svc_train,retrospective_matched,0.95,Silk,7,False,0.0,0.0
+svc_train,retrospective_matched,0.95,Unspecified Aramid Type,1,False,0.0,0.0
+svc_train,retrospective_matched,0.95,Unspecified PA Type,1,False,0.0,0.0
+svc_train,retrospective_matched,0.95,Unspecified PAN (Acrylic) Copolymer,1,False,0.0,0.0
+svc_train,retrospective_matched,0.95,Unspecified PAN (Modacrylic) Copolymer,4,False,0.0,0.0
+svc_train,retrospective_matched,0.95,Unspecified Regenerated Cellulose Polymer,11,False,0.0,0.0
+svc_train,retrospective_matched,0.95,Viscose,1,False,0.0,0.0
+svc_train,retrospective_matched,0.95,Wool,19,False,0.05263157894736842,0.05263157894736842
+svc_train_cal,calibrated,0.9,Alpaca,2,False,0.0,0.0
+svc_train_cal,calibrated,0.9,Cellulose Diacetate,3,False,0.0,0.0
+svc_train_cal,calibrated,0.9,Cellulose Triacetate,1,False,0.0,0.0
+svc_train_cal,calibrated,0.9,Cotton,10,False,0.85,0.85
+svc_train_cal,calibrated,0.9,Jute,2,False,1.0,1.0
+svc_train_cal,calibrated,0.9,Linen,4,False,1.0,1.0
+svc_train_cal,calibrated,0.9,Lyocell,4,False,1.0,1.0
+svc_train_cal,calibrated,0.9,Meta-Aramid,1,False,0.0,0.0
+svc_train_cal,calibrated,0.9,Modal,2,False,1.0,1.0
+svc_train_cal,calibrated,0.9,PA 6,10,False,0.0,0.0
+svc_train_cal,calibrated,0.9,"PA 6,6",6,False,0.0,0.0
+svc_train_cal,calibrated,0.9,PAN/AA/MA,2,False,0.0,0.0
+svc_train_cal,calibrated,0.9,PAN/MA,7,False,0.0,0.0
+svc_train_cal,calibrated,0.9,PAN/MMA/MA,1,False,0.0,0.0
+svc_train_cal,calibrated,0.9,PAN/VA,1,False,0.0,0.0
+svc_train_cal,calibrated,0.9,PAN/VA/VC,5,False,0.0,0.0
+svc_train_cal,calibrated,0.9,PAN/VBr,1,False,0.0,0.0
+svc_train_cal,calibrated,0.9,PAN/VC,2,False,0.0,0.0
+svc_train_cal,calibrated,0.9,PAN/VDC,3,False,0.0,0.0
+svc_train_cal,calibrated,0.9,PE,1,True,1.0,0.0
+svc_train_cal,calibrated,0.9,PET,8,True,1.0,0.0
+svc_train_cal,calibrated,0.9,PP,4,True,1.0,0.0
+svc_train_cal,calibrated,0.9,Para-Aramid,2,False,0.0,0.0
+svc_train_cal,calibrated,0.9,Silk,7,False,0.0,0.0
+svc_train_cal,calibrated,0.9,Unspecified Aramid Type,1,False,0.0,0.0
+svc_train_cal,calibrated,0.9,Unspecified PA Type,1,False,0.0,0.0
+svc_train_cal,calibrated,0.9,Unspecified PAN (Acrylic) Copolymer,1,False,0.0,0.0
+svc_train_cal,calibrated,0.9,Unspecified PAN (Modacrylic) Copolymer,4,False,0.125,0.125
+svc_train_cal,calibrated,0.9,Unspecified Regenerated Cellulose Polymer,11,False,1.0,1.0
+svc_train_cal,calibrated,0.9,Viscose,1,False,1.0,1.0
+svc_train_cal,calibrated,0.9,Wool,19,False,0.10526315789473684,0.10526315789473684
+svc_train_cal,retrospective_matched,0.5,Alpaca,2,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.5,Cellulose Diacetate,3,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.5,Cellulose Triacetate,1,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.5,Cotton,10,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.5,Jute,2,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.5,Linen,4,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.5,Lyocell,4,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.5,Meta-Aramid,1,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.5,Modal,2,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.5,PA 6,10,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.5,"PA 6,6",6,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.5,PAN/AA/MA,2,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.5,PAN/MA,7,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.5,PAN/MMA/MA,1,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.5,PAN/VA,1,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.5,PAN/VA/VC,5,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.5,PAN/VBr,1,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.5,PAN/VC,2,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.5,PAN/VDC,3,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.5,PE,1,True,0.5,0.0
+svc_train_cal,retrospective_matched,0.5,PET,8,True,0.375,0.0
+svc_train_cal,retrospective_matched,0.5,PP,4,True,0.75,0.0
+svc_train_cal,retrospective_matched,0.5,Para-Aramid,2,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.5,Silk,7,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.5,Unspecified Aramid Type,1,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.5,Unspecified PA Type,1,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.5,Unspecified PAN (Acrylic) Copolymer,1,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.5,Unspecified PAN (Modacrylic) Copolymer,4,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.5,Unspecified Regenerated Cellulose Polymer,11,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.5,Viscose,1,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.5,Wool,19,False,0.05263157894736842,0.05263157894736842
+svc_train_cal,retrospective_matched,0.8,Alpaca,2,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.8,Cellulose Diacetate,3,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.8,Cellulose Triacetate,1,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.8,Cotton,10,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.8,Jute,2,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.8,Linen,4,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.8,Lyocell,4,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.8,Meta-Aramid,1,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.8,Modal,2,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.8,PA 6,10,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.8,"PA 6,6",6,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.8,PAN/AA/MA,2,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.8,PAN/MA,7,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.8,PAN/MMA/MA,1,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.8,PAN/VA,1,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.8,PAN/VA/VC,5,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.8,PAN/VBr,1,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.8,PAN/VC,2,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.8,PAN/VDC,3,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.8,PE,1,True,1.0,0.0
+svc_train_cal,retrospective_matched,0.8,PET,8,True,0.675,0.0
+svc_train_cal,retrospective_matched,0.8,PP,4,True,1.0,0.0
+svc_train_cal,retrospective_matched,0.8,Para-Aramid,2,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.8,Silk,7,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.8,Unspecified Aramid Type,1,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.8,Unspecified PA Type,1,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.8,Unspecified PAN (Acrylic) Copolymer,1,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.8,Unspecified PAN (Modacrylic) Copolymer,4,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.8,Unspecified Regenerated Cellulose Polymer,11,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.8,Viscose,1,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.8,Wool,19,False,0.05263157894736842,0.05263157894736842
+svc_train_cal,retrospective_matched,0.9,Alpaca,2,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.9,Cellulose Diacetate,3,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.9,Cellulose Triacetate,1,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.9,Cotton,10,False,0.85,0.85
+svc_train_cal,retrospective_matched,0.9,Jute,2,False,1.0,1.0
+svc_train_cal,retrospective_matched,0.9,Linen,4,False,1.0,1.0
+svc_train_cal,retrospective_matched,0.9,Lyocell,4,False,1.0,1.0
+svc_train_cal,retrospective_matched,0.9,Meta-Aramid,1,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.9,Modal,2,False,1.0,1.0
+svc_train_cal,retrospective_matched,0.9,PA 6,10,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.9,"PA 6,6",6,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.9,PAN/AA/MA,2,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.9,PAN/MA,7,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.9,PAN/MMA/MA,1,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.9,PAN/VA,1,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.9,PAN/VA/VC,5,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.9,PAN/VBr,1,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.9,PAN/VC,2,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.9,PAN/VDC,3,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.9,PE,1,True,1.0,0.0
+svc_train_cal,retrospective_matched,0.9,PET,8,True,0.8375000000000001,0.0
+svc_train_cal,retrospective_matched,0.9,PP,4,True,1.0,0.0
+svc_train_cal,retrospective_matched,0.9,Para-Aramid,2,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.9,Silk,7,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.9,Unspecified Aramid Type,1,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.9,Unspecified PA Type,1,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.9,Unspecified PAN (Acrylic) Copolymer,1,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.9,Unspecified PAN (Modacrylic) Copolymer,4,False,0.125,0.125
+svc_train_cal,retrospective_matched,0.9,Unspecified Regenerated Cellulose Polymer,11,False,1.0,1.0
+svc_train_cal,retrospective_matched,0.9,Viscose,1,False,1.0,1.0
+svc_train_cal,retrospective_matched,0.9,Wool,19,False,0.10526315789473684,0.10526315789473684
+svc_train_cal,retrospective_matched,0.95,Alpaca,2,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.95,Cellulose Diacetate,3,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.95,Cellulose Triacetate,1,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.95,Cotton,10,False,0.85,0.85
+svc_train_cal,retrospective_matched,0.95,Jute,2,False,1.0,1.0
+svc_train_cal,retrospective_matched,0.95,Linen,4,False,1.0,1.0
+svc_train_cal,retrospective_matched,0.95,Lyocell,4,False,1.0,1.0
+svc_train_cal,retrospective_matched,0.95,Meta-Aramid,1,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.95,Modal,2,False,1.0,1.0
+svc_train_cal,retrospective_matched,0.95,PA 6,10,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.95,"PA 6,6",6,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.95,PAN/AA/MA,2,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.95,PAN/MA,7,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.95,PAN/MMA/MA,1,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.95,PAN/VA,1,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.95,PAN/VA/VC,5,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.95,PAN/VBr,1,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.95,PAN/VC,2,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.95,PAN/VDC,3,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.95,PE,1,True,1.0,0.0
+svc_train_cal,retrospective_matched,0.95,PET,8,True,0.91875,0.0
+svc_train_cal,retrospective_matched,0.95,PP,4,True,1.0,0.0
+svc_train_cal,retrospective_matched,0.95,Para-Aramid,2,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.95,Silk,7,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.95,Unspecified Aramid Type,1,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.95,Unspecified PA Type,1,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.95,Unspecified PAN (Acrylic) Copolymer,1,False,0.0,0.0
+svc_train_cal,retrospective_matched,0.95,Unspecified PAN (Modacrylic) Copolymer,4,False,0.125,0.125
+svc_train_cal,retrospective_matched,0.95,Unspecified Regenerated Cellulose Polymer,11,False,1.0,1.0
+svc_train_cal,retrospective_matched,0.95,Viscose,1,False,1.0,1.0
+svc_train_cal,retrospective_matched,0.95,Wool,19,False,0.10526315789473684,0.10526315789473684

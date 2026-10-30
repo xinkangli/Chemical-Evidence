@@ -1,0 +1,74 @@
+[
+  {
+    "panel": "MPX",
+    "archive_path": "reports/unknown_chemical_gate_v1/scores.parquet",
+    "archive_sha256": "c168ac39116b0d69dc9218ea19b5703a174e060d26d9cb7bef84a8aea376ce53",
+    "rows": 34101,
+    "observations": 3789,
+    "methods": [
+      "initial_retrieval",
+      "matched_retrieval",
+      "fixed_fusion",
+      "learned_fusion",
+      "svc_train",
+      "rf_train",
+      "svc_train_cal",
+      "rf_train_cal",
+      "chemical_support"
+    ]
+  },
+  {
+    "panel": "FLOPP-e",
+    "archive_path": "reports/public_chemical_batch_edge_audit_v1/FLOPP-e_scores.parquet",
+    "archive_sha256": "b60cdfa6e60b32a1057b3c9cf047b3995665e2adc6b8e407e6104496bd41f5d8",
+    "rows": 1755,
+    "observations": 195,
+    "methods": [
+      "initial_retrieval",
+      "matched_retrieval",
+      "fixed_fusion",
+      "learned_fusion",
+      "svc_train",
+      "rf_train",
+      "svc_train_cal",
+      "rf_train_cal",
+      "chemical_support"
+    ]
+  },
+  {
+    "panel": "FTIR-Plastics-c4",
+    "archive_path": "reports/public_chemical_batch_v1/FTIR-Plastics-c4_scores.parquet",
+    "archive_sha256": "eded3bf6e967858ba3c5df9effebab2dae143cca354ab1a44e3544b973536177",
+    "rows": 27000,
+    "observations": 3000,
+    "methods": [
+      "initial_retrieval",
+      "matched_retrieval",
+      "fixed_fusion",
+      "learned_fusion",
+      "svc_train",
+      "rf_train",
+      "svc_train_cal",
+      "rf_train_cal",
+      "chemical_support"
+    ]
+  },
+  {
+    "panel": "FTIR-Plastics-c8",
+    "archive_path": "reports/public_chemical_batch_v1/FTIR-Plastics-c8_scores.parquet",
+    "archive_sha256": "e9024e8b9eacb2cdee901874c7f7fe02458f3940b710bb52309a133dae2bfbcd",
+    "rows": 27000,
+    "observations": 3000,
+    "methods": [
+      "initial_retrieval",
+      "matched_retrieval",
+      "fixed_fusion",
+      "learned_fusion",
+      "svc_train",
+      "rf_train",
+      "svc_train_cal",
+      "rf_train_cal",
+      "chemical_support"
+    ]
+  }
+]

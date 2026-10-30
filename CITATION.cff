@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite this software and the original data sources; the associated manuscript is in preparation."
+title: "Chemical Evidence"
+type: software
+version: 0.1.0
+authors:
+  - family-names: Li
+    given-names: Xinkang
+  - family-names: Yin
+    given-names: Xiaoxing
+repository-code: "https://github.com/xinkangli/Chemical-Evidence"
